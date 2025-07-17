@@ -1,0 +1,4570 @@
+{
+  "products": [
+    {
+      "Limit": 10,
+      "Offset": 0,
+      "TotalResults": 1,
+      "Locale": "en_AU",
+      "Results": [
+        {
+          "FamilyIds": [
+            "WUC-10402-family"
+          ],
+          "AttributesOrder": [
+            "INVALID_IMAGE_URL",
+            "AVAILABILITY",
+            "BV_FE_EXPAND",
+            "BV_FE_FAMILY"
+          ],
+          "Attributes": {
+            "INVALID_IMAGE_URL": {
+              "Id": "INVALID_IMAGE_URL",
+              "Values": [
+                {
+                  "Value": "/on/demandware.static/-/Sites-jeanswest-master-catalog/default/dwdc538c21/images/WUC-10402/WUC-10402_03_IM_001-Lola_Cotton_Basic_Tank-Thyme.jpg",
+                  "Locale": "en_AU"
+                }
+              ]
+            },
+            "AVAILABILITY": {
+              "Id": "AVAILABILITY",
+              "Values": [
+                {
+                  "Value": "True",
+                  "Locale": null
+                }
+              ]
+            },
+            "BV_FE_EXPAND": {
+              "Id": "BV_FE_EXPAND",
+              "Values": [
+                {
+                  "Value": "BV_FE_FAMILY:WUC-10402-family",
+                  "Locale": null
+                }
+              ]
+            },
+            "BV_FE_FAMILY": {
+              "Id": "BV_FE_FAMILY",
+              "Values": [
+                {
+                  "Value": "WUC-10402-family",
+                  "Locale": null
+                }
+              ]
+            }
+          },
+          "Name": "Lola Cotton Basic Tank",
+          "EANs": [
+            "9346325082323",
+            "9346325082309",
+            "9346325082293",
+            "9346325082316",
+            "9346325082330"
+          ],
+          "Description": "Lola Cotton Basic Tank",
+          "ModelNumbers": [
+            "WUC-10402-03"
+          ],
+          "ImageUrl": "https://www.jeanswest.com.au/alternate/images/media/product/WUC/10402/03/s/01.jpg",
+          "Id": "WUC-10402-03",
+          "CategoryId": "sale-women-clothing-tops_tees",
+          "BrandExternalId": "1",
+          "Brand": {
+            "Id": "1",
+            "Name": "Jeanswest"
+          },
+          "Active": false,
+          "Disabled": false,
+          "StoryIds": [],
+          "QuestionIds": [],
+          "ProductPageUrl": null,
+          "ReviewIds": [],
+          "ManufacturerPartNumbers": [],
+          "ISBNs": [],
+          "UPCs": [],
+          "ReviewStatistics": {
+            "FirstSubmissionTime": "2020-05-04T04:19:48.000+00:00",
+            "LastSubmissionTime": "2024-05-10T02:42:58.000+00:00",
+            "ContextDataDistributionOrder": [
+              "Age",
+              "Gender",
+              "ReadReviews",
+              "WhereDidYouPurchase"
+            ],
+            "ContextDataDistribution": {
+              "Age": {
+                "Id": "Age",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "17orUnder"
+                  },
+                  {
+                    "Count": 22,
+                    "Value": "25to34"
+                  },
+                  {
+                    "Count": 48,
+                    "Value": "35to44"
+                  },
+                  {
+                    "Count": 18,
+                    "Value": "45to54"
+                  },
+                  {
+                    "Count": 13,
+                    "Value": "55to64"
+                  },
+                  {
+                    "Count": 5,
+                    "Value": "65orOver"
+                  }
+                ]
+              },
+              "Gender": {
+                "Id": "Gender",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "Male"
+                  },
+                  {
+                    "Count": 108,
+                    "Value": "Female"
+                  }
+                ]
+              },
+              "ReadReviews": {
+                "Id": "ReadReviews",
+                "Values": [
+                  {
+                    "Count": 19,
+                    "Value": "Yes"
+                  },
+                  {
+                    "Count": 89,
+                    "Value": "No"
+                  }
+                ]
+              },
+              "WhereDidYouPurchase": {
+                "Id": "WhereDidYouPurchase",
+                "Values": [
+                  {
+                    "Count": 24,
+                    "Value": "online"
+                  },
+                  {
+                    "Count": 85,
+                    "Value": "instore"
+                  }
+                ]
+              }
+            },
+            "SecondaryRatingsAveragesOrder": [
+              "Quality",
+              "Value",
+              "Appearance1",
+              "Fit_22"
+            ],
+            "SecondaryRatingsAverages": {
+              "Quality": {
+                "Id": "Quality",
+                "AverageRating": 4.836363636363636,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "ValueRange": 5,
+                "MinLabel": null
+              },
+              "Fit_22": {
+                "Id": "Fit_22",
+                "AverageRating": 3.1376146788990824,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              },
+              "Value": {
+                "Id": "Value",
+                "AverageRating": 4.801801801801802,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "ValueRange": 5,
+                "MinLabel": null
+              },
+              "Appearance1": {
+                "Id": "Appearance1",
+                "AverageRating": 4.792792792792793,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "ValueRange": 5,
+                "MinLabel": null
+              }
+            },
+            "AverageOverallRating": 4.75,
+            "FeaturedReviewCount": 0,
+            "HelpfulVoteCount": 6,
+            "TotalReviewCount": 152,
+            "NotRecommendedCount": 4,
+            "RatingDistribution": [
+              {
+                "RatingValue": 5,
+                "Count": 124
+              },
+              {
+                "RatingValue": 4,
+                "Count": 21
+              },
+              {
+                "RatingValue": 3,
+                "Count": 4
+              },
+              {
+                "RatingValue": 2,
+                "Count": 3
+              }
+            ],
+            "RatingsOnlyReviewCount": 38,
+            "NotHelpfulVoteCount": 1,
+            "RecommendedCount": 102,
+            "TagDistribution": {},
+            "TagDistributionOrder": [],
+            "OverallRatingRange": 5,
+            "IntelligentTrustMarkDisplayEligible": true
+          },
+          "TotalReviewCount": 152,
+          "FilteredReviewStatistics": {
+            "FirstSubmissionTime": "2020-05-04T04:19:48.000+00:00",
+            "LastSubmissionTime": "2024-05-10T02:42:58.000+00:00",
+            "ContextDataDistributionOrder": [
+              "Age",
+              "Gender",
+              "ReadReviews",
+              "WhereDidYouPurchase"
+            ],
+            "ContextDataDistribution": {
+              "Age": {
+                "Id": "Age",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "17orUnder"
+                  },
+                  {
+                    "Count": 22,
+                    "Value": "25to34"
+                  },
+                  {
+                    "Count": 48,
+                    "Value": "35to44"
+                  },
+                  {
+                    "Count": 18,
+                    "Value": "45to54"
+                  },
+                  {
+                    "Count": 13,
+                    "Value": "55to64"
+                  },
+                  {
+                    "Count": 5,
+                    "Value": "65orOver"
+                  }
+                ]
+              },
+              "Gender": {
+                "Id": "Gender",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "Male"
+                  },
+                  {
+                    "Count": 108,
+                    "Value": "Female"
+                  }
+                ]
+              },
+              "ReadReviews": {
+                "Id": "ReadReviews",
+                "Values": [
+                  {
+                    "Count": 19,
+                    "Value": "Yes"
+                  },
+                  {
+                    "Count": 89,
+                    "Value": "No"
+                  }
+                ]
+              },
+              "WhereDidYouPurchase": {
+                "Id": "WhereDidYouPurchase",
+                "Values": [
+                  {
+                    "Count": 24,
+                    "Value": "online"
+                  },
+                  {
+                    "Count": 85,
+                    "Value": "instore"
+                  }
+                ]
+              }
+            },
+            "SecondaryRatingsAveragesOrder": [
+              "Quality",
+              "Value",
+              "Appearance1",
+              "Fit_22"
+            ],
+            "SecondaryRatingsAverages": {
+              "Quality": {
+                "Id": "Quality",
+                "AverageRating": 4.836363636363636,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "ValueRange": 5,
+                "MinLabel": null
+              },
+              "Fit_22": {
+                "Id": "Fit_22",
+                "AverageRating": 3.1376146788990824,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              },
+              "Value": {
+                "Id": "Value",
+                "AverageRating": 4.801801801801802,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "ValueRange": 5,
+                "MinLabel": null
+              },
+              "Appearance1": {
+                "Id": "Appearance1",
+                "AverageRating": 4.792792792792793,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "ValueRange": 5,
+                "MinLabel": null
+              }
+            },
+            "AverageOverallRating": 4.75,
+            "FeaturedReviewCount": 0,
+            "HelpfulVoteCount": 6,
+            "TotalReviewCount": 152,
+            "NotRecommendedCount": 4,
+            "RatingDistribution": [
+              {
+                "RatingValue": 5,
+                "Count": 124
+              },
+              {
+                "RatingValue": 4,
+                "Count": 21
+              },
+              {
+                "RatingValue": 3,
+                "Count": 4
+              },
+              {
+                "RatingValue": 2,
+                "Count": 3
+              }
+            ],
+            "RatingsOnlyReviewCount": 38,
+            "NotHelpfulVoteCount": 1,
+            "RecommendedCount": 102,
+            "TagDistribution": {},
+            "TagDistributionOrder": [],
+            "OverallRatingRange": 5
+          }
+        }
+      ],
+      "Includes": {},
+      "HasErrors": false,
+      "Errors": [],
+      "reviews": {
+        "reviews": [
+          {
+            "text": "Light control without feelng pulled in - felt great in it",
+            "username": "Luddy",
+            "userID": "1161674691",
+            "rate": 5,
+            "date": "2024-05-10T02:42:58.000+00:00"
+          },
+          {
+            "text": "Comfy and gave me a small amount of control without feeling things were too tight",
+            "username": "Luddy",
+            "userID": "1161674628",
+            "rate": 5,
+            "date": "2024-05-10T02:37:37.000+00:00"
+          },
+          {
+            "text": "Preferred the material they use to use but does the job. Nicer cut then the cheap shops too.",
+            "username": "Chene",
+            "userID": "1158614706",
+            "rate": 4,
+            "date": "2024-03-23T04:55:37.000+00:00"
+          },
+          {
+            "text": "Love this singlet great for a little suport. Extremly comfortable",
+            "username": "Jodes 81",
+            "userID": "1158196218",
+            "rate": 5,
+            "date": "2024-03-17T06:18:03.000+00:00"
+          },
+          {
+            "text": "Super soft and comfy singlet top, great to layer with any top or pair it with a skirt for hotter days",
+            "username": "Kimaw",
+            "userID": "1158044330",
+            "rate": 5,
+            "date": "2024-03-14T05:29:38.000+00:00"
+          },
+          {
+            "text": "Great top! Lovely fit. Will be buying a few more for everyday use",
+            "username": "T Kelce",
+            "userID": "1156926494",
+            "rate": 5,
+            "date": "2024-02-23T23:13:32.000+00:00"
+          },
+          {
+            "text": "White tank, great fit , comfortable, would be good as an under garment , the white was a little to sheer for me",
+            "username": "Bella282",
+            "userID": "1156197428",
+            "rate": 3,
+            "date": "2024-02-18T06:22:11.000+00:00"
+          },
+          {
+            "text": "Black tank, great fit comfortable definitely a favourite staple tank",
+            "username": "Bella282",
+            "userID": "1156204971",
+            "rate": 5,
+            "date": "2024-02-18T06:20:10.000+00:00"
+          }
+        ]
+      }
+    },
+    {
+      "Limit": 10,
+      "Offset": 0,
+      "TotalResults": 1,
+      "Locale": "en_AU",
+      "Results": [
+        {
+          "FamilyIds": [
+            "WUC-10402-family"
+          ],
+          "AttributesOrder": [
+            "INVALID_IMAGE_URL",
+            "AVAILABILITY",
+            "BV_FE_EXPAND",
+            "BV_FE_FAMILY",
+            "GTIN14"
+          ],
+          "Attributes": {
+            "INVALID_IMAGE_URL": {
+              "Id": "INVALID_IMAGE_URL",
+              "Values": [
+                {
+                  "Value": "/on/demandware.static/-/Sites-jeanswest-master-catalog/default/dwf9533ab7/images/WUC-10402/WUC-10402_02_IM_01_Lola-Cotton-Basic-Tank_White.jpg",
+                  "Locale": "en_AU"
+                }
+              ]
+            },
+            "AVAILABILITY": {
+              "Id": "AVAILABILITY",
+              "Values": [
+                {
+                  "Value": "True",
+                  "Locale": null
+                }
+              ]
+            },
+            "BV_FE_EXPAND": {
+              "Id": "BV_FE_EXPAND",
+              "Values": [
+                {
+                  "Value": "BV_FE_FAMILY:WUC-10402-family",
+                  "Locale": null
+                }
+              ]
+            },
+            "BV_FE_FAMILY": {
+              "Id": "BV_FE_FAMILY",
+              "Values": [
+                {
+                  "Value": "WUC-10402-family",
+                  "Locale": null
+                }
+              ]
+            },
+            "GTIN14": {
+              "Id": "GTIN14",
+              "Values": [
+                {
+                  "Value": "09346325003564",
+                  "Locale": null
+                },
+                {
+                  "Value": "09346325003601",
+                  "Locale": null
+                },
+                {
+                  "Value": "09360231540999",
+                  "Locale": null
+                },
+                {
+                  "Value": "09360231216788",
+                  "Locale": null
+                },
+                {
+                  "Value": "09346325003625",
+                  "Locale": null
+                },
+                {
+                  "Value": "09346325003540",
+                  "Locale": null
+                },
+                {
+                  "Value": "09346325003588",
+                  "Locale": null
+                }
+              ]
+            }
+          },
+          "Name": "Lola Cotton Basic Tank",
+          "EANs": [
+            "9346325003564",
+            "9346325003601",
+            "9360231540999",
+            "9360231216788",
+            "9346325003625",
+            "9346325003540",
+            "9346325003588"
+          ],
+          "Description": "Lola Cotton Basic Tank",
+          "ModelNumbers": [
+            "WUC-10402-02"
+          ],
+          "ImageUrl": "https://www.jeanswest.com.au/alternate/images/media/product/WUC/10402/02/s/01.jpg",
+          "Id": "WUC-10402-02",
+          "CategoryId": "women-clothing-tops_tees",
+          "BrandExternalId": "1",
+          "Brand": {
+            "Id": "1",
+            "Name": "Jeanswest"
+          },
+          "Active": true,
+          "ProductPageUrl": "https://www.jeanswest.com.au/lola-cotton-basic-tank/WUC-10402-02.html",
+          "Disabled": false,
+          "ReviewIds": [],
+          "ManufacturerPartNumbers": [],
+          "UPCs": [],
+          "StoryIds": [],
+          "ISBNs": [],
+          "QuestionIds": [],
+          "ReviewStatistics": {
+            "ContextDataDistributionOrder": [
+              "Age",
+              "Gender",
+              "ReadReviews",
+              "WhereDidYouPurchase"
+            ],
+            "ContextDataDistribution": {
+              "Age": {
+                "Id": "Age",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "17orUnder"
+                  },
+                  {
+                    "Count": 22,
+                    "Value": "25to34"
+                  },
+                  {
+                    "Count": 48,
+                    "Value": "35to44"
+                  },
+                  {
+                    "Count": 18,
+                    "Value": "45to54"
+                  },
+                  {
+                    "Count": 13,
+                    "Value": "55to64"
+                  },
+                  {
+                    "Count": 5,
+                    "Value": "65orOver"
+                  }
+                ]
+              },
+              "Gender": {
+                "Id": "Gender",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "Male"
+                  },
+                  {
+                    "Count": 108,
+                    "Value": "Female"
+                  }
+                ]
+              },
+              "ReadReviews": {
+                "Id": "ReadReviews",
+                "Values": [
+                  {
+                    "Count": 19,
+                    "Value": "Yes"
+                  },
+                  {
+                    "Count": 89,
+                    "Value": "No"
+                  }
+                ]
+              },
+              "WhereDidYouPurchase": {
+                "Id": "WhereDidYouPurchase",
+                "Values": [
+                  {
+                    "Count": 24,
+                    "Value": "online"
+                  },
+                  {
+                    "Count": 85,
+                    "Value": "instore"
+                  }
+                ]
+              }
+            },
+            "SecondaryRatingsAveragesOrder": [
+              "Quality",
+              "Value",
+              "Appearance1",
+              "Fit_22"
+            ],
+            "SecondaryRatingsAverages": {
+              "Quality": {
+                "Id": "Quality",
+                "AverageRating": 4.836363636363636,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "Appearance1": {
+                "Id": "Appearance1",
+                "AverageRating": 4.792792792792793,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "Fit_22": {
+                "Id": "Fit_22",
+                "AverageRating": 3.1376146788990824,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              },
+              "Value": {
+                "Id": "Value",
+                "AverageRating": 4.801801801801802,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "MinLabel": null,
+                "ValueRange": 5
+              }
+            },
+            "RecommendedCount": 102,
+            "HelpfulVoteCount": 6,
+            "RatingsOnlyReviewCount": 38,
+            "FeaturedReviewCount": 0,
+            "TotalReviewCount": 152,
+            "AverageOverallRating": 4.75,
+            "NotRecommendedCount": 4,
+            "FirstSubmissionTime": "2020-05-04T04:19:48.000+00:00",
+            "LastSubmissionTime": "2024-05-10T02:42:58.000+00:00",
+            "RatingDistribution": [
+              {
+                "RatingValue": 5,
+                "Count": 124
+              },
+              {
+                "RatingValue": 4,
+                "Count": 21
+              },
+              {
+                "RatingValue": 3,
+                "Count": 4
+              },
+              {
+                "RatingValue": 2,
+                "Count": 3
+              }
+            ],
+            "NotHelpfulVoteCount": 1,
+            "OverallRatingRange": 5,
+            "TagDistributionOrder": [],
+            "TagDistribution": {},
+            "IntelligentTrustMarkDisplayEligible": true
+          },
+          "TotalReviewCount": 152,
+          "FilteredReviewStatistics": {
+            "ContextDataDistributionOrder": [
+              "Age",
+              "Gender",
+              "ReadReviews",
+              "WhereDidYouPurchase"
+            ],
+            "ContextDataDistribution": {
+              "Age": {
+                "Id": "Age",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "17orUnder"
+                  },
+                  {
+                    "Count": 22,
+                    "Value": "25to34"
+                  },
+                  {
+                    "Count": 48,
+                    "Value": "35to44"
+                  },
+                  {
+                    "Count": 18,
+                    "Value": "45to54"
+                  },
+                  {
+                    "Count": 13,
+                    "Value": "55to64"
+                  },
+                  {
+                    "Count": 5,
+                    "Value": "65orOver"
+                  }
+                ]
+              },
+              "Gender": {
+                "Id": "Gender",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "Male"
+                  },
+                  {
+                    "Count": 108,
+                    "Value": "Female"
+                  }
+                ]
+              },
+              "ReadReviews": {
+                "Id": "ReadReviews",
+                "Values": [
+                  {
+                    "Count": 19,
+                    "Value": "Yes"
+                  },
+                  {
+                    "Count": 89,
+                    "Value": "No"
+                  }
+                ]
+              },
+              "WhereDidYouPurchase": {
+                "Id": "WhereDidYouPurchase",
+                "Values": [
+                  {
+                    "Count": 24,
+                    "Value": "online"
+                  },
+                  {
+                    "Count": 85,
+                    "Value": "instore"
+                  }
+                ]
+              }
+            },
+            "SecondaryRatingsAveragesOrder": [
+              "Quality",
+              "Value",
+              "Appearance1",
+              "Fit_22"
+            ],
+            "SecondaryRatingsAverages": {
+              "Quality": {
+                "Id": "Quality",
+                "AverageRating": 4.836363636363636,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "Appearance1": {
+                "Id": "Appearance1",
+                "AverageRating": 4.792792792792793,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "Fit_22": {
+                "Id": "Fit_22",
+                "AverageRating": 3.1376146788990824,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              },
+              "Value": {
+                "Id": "Value",
+                "AverageRating": 4.801801801801802,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "MinLabel": null,
+                "ValueRange": 5
+              }
+            },
+            "RecommendedCount": 102,
+            "HelpfulVoteCount": 6,
+            "RatingsOnlyReviewCount": 38,
+            "FeaturedReviewCount": 0,
+            "TotalReviewCount": 152,
+            "AverageOverallRating": 4.75,
+            "NotRecommendedCount": 4,
+            "FirstSubmissionTime": "2020-05-04T04:19:48.000+00:00",
+            "LastSubmissionTime": "2024-05-10T02:42:58.000+00:00",
+            "RatingDistribution": [
+              {
+                "RatingValue": 5,
+                "Count": 124
+              },
+              {
+                "RatingValue": 4,
+                "Count": 21
+              },
+              {
+                "RatingValue": 3,
+                "Count": 4
+              },
+              {
+                "RatingValue": 2,
+                "Count": 3
+              }
+            ],
+            "NotHelpfulVoteCount": 1,
+            "OverallRatingRange": 5,
+            "TagDistributionOrder": [],
+            "TagDistribution": {}
+          }
+        }
+      ],
+      "Includes": {},
+      "HasErrors": false,
+      "Errors": [],
+      "reviews": {
+        "reviews": [
+          {
+            "text": "Light control without feelng pulled in - felt great in it",
+            "username": "Luddy",
+            "userID": "1161674691",
+            "rate": 5,
+            "date": "2024-05-10T02:42:58.000+00:00"
+          },
+          {
+            "text": "Comfy and gave me a small amount of control without feeling things were too tight",
+            "username": "Luddy",
+            "userID": "1161674628",
+            "rate": 5,
+            "date": "2024-05-10T02:37:37.000+00:00"
+          },
+          {
+            "text": "Preferred the material they use to use but does the job. Nicer cut then the cheap shops too.",
+            "username": "Chene",
+            "userID": "1158614706",
+            "rate": 4,
+            "date": "2024-03-23T04:55:37.000+00:00"
+          },
+          {
+            "text": "Love this singlet great for a little suport. Extremly comfortable",
+            "username": "Jodes 81",
+            "userID": "1158196218",
+            "rate": 5,
+            "date": "2024-03-17T06:18:03.000+00:00"
+          },
+          {
+            "text": "Super soft and comfy singlet top, great to layer with any top or pair it with a skirt for hotter days",
+            "username": "Kimaw",
+            "userID": "1158044330",
+            "rate": 5,
+            "date": "2024-03-14T05:29:38.000+00:00"
+          },
+          {
+            "text": "Great top! Lovely fit. Will be buying a few more for everyday use",
+            "username": "T Kelce",
+            "userID": "1156926494",
+            "rate": 5,
+            "date": "2024-02-23T23:13:32.000+00:00"
+          },
+          {
+            "text": "White tank, great fit , comfortable, would be good as an under garment , the white was a little to sheer for me",
+            "username": "Bella282",
+            "userID": "1156197428",
+            "rate": 3,
+            "date": "2024-02-18T06:22:11.000+00:00"
+          },
+          {
+            "text": "Black tank, great fit comfortable definitely a favourite staple tank",
+            "username": "Bella282",
+            "userID": "1156204971",
+            "rate": 5,
+            "date": "2024-02-18T06:20:10.000+00:00"
+          }
+        ]
+      }
+    },
+    {
+      "Limit": 10,
+      "Offset": 0,
+      "TotalResults": 1,
+      "Locale": "en_AU",
+      "Results": [
+        {
+          "FamilyIds": [
+            "WUC-10402-family"
+          ],
+          "AttributesOrder": [
+            "INVALID_IMAGE_URL",
+            "AVAILABILITY",
+            "BV_FE_EXPAND",
+            "BV_FE_FAMILY",
+            "GTIN14"
+          ],
+          "Attributes": {
+            "INVALID_IMAGE_URL": {
+              "Id": "INVALID_IMAGE_URL",
+              "Values": [
+                {
+                  "Value": "/on/demandware.static/-/Sites-jeanswest-master-catalog/default/dw6ae1a916/images/WUC-10402/WUC-10402_01_IM_01_Lola-Cotton-Basic-Tank_Black.jpg",
+                  "Locale": "en_AU"
+                }
+              ]
+            },
+            "AVAILABILITY": {
+              "Id": "AVAILABILITY",
+              "Values": [
+                {
+                  "Value": "True",
+                  "Locale": null
+                }
+              ]
+            },
+            "BV_FE_EXPAND": {
+              "Id": "BV_FE_EXPAND",
+              "Values": [
+                {
+                  "Value": "BV_FE_FAMILY:WUC-10402-family",
+                  "Locale": null
+                }
+              ]
+            },
+            "BV_FE_FAMILY": {
+              "Id": "BV_FE_FAMILY",
+              "Values": [
+                {
+                  "Value": "WUC-10402-family",
+                  "Locale": null
+                }
+              ]
+            },
+            "GTIN14": {
+              "Id": "GTIN14",
+              "Values": [
+                {
+                  "Value": "09346325003519",
+                  "Locale": null
+                },
+                {
+                  "Value": "09346325003489",
+                  "Locale": null
+                },
+                {
+                  "Value": "09346325003502",
+                  "Locale": null
+                },
+                {
+                  "Value": "09360231213879",
+                  "Locale": null
+                },
+                {
+                  "Value": "09346325003496",
+                  "Locale": null
+                },
+                {
+                  "Value": "09346325003526",
+                  "Locale": null
+                },
+                {
+                  "Value": "09360231540807",
+                  "Locale": null
+                }
+              ]
+            }
+          },
+          "Name": "Lola Cotton Basic Tank",
+          "EANs": [
+            "9346325003519",
+            "9346325003489",
+            "9346325003502",
+            "9360231213879",
+            "9346325003496",
+            "9346325003526",
+            "9360231540807"
+          ],
+          "Description": "Lola Cotton Basic Tank",
+          "ModelNumbers": [
+            "WUC-10402-01"
+          ],
+          "ImageUrl": "https://www.jeanswest.com.au/alternate/images/media/product/WUC/10402/01/s/01.jpg",
+          "Id": "WUC-10402-01",
+          "CategoryId": "women-clothing-tops_tees",
+          "BrandExternalId": "1",
+          "Brand": {
+            "Id": "1",
+            "Name": "Jeanswest"
+          },
+          "Active": true,
+          "ProductPageUrl": "https://www.jeanswest.com.au/lola-cotton-basic-tank/WUC-10402-01.html",
+          "Disabled": false,
+          "UPCs": [],
+          "QuestionIds": [],
+          "ISBNs": [],
+          "StoryIds": [],
+          "ReviewIds": [],
+          "ManufacturerPartNumbers": [],
+          "ReviewStatistics": {
+            "FeaturedReviewCount": 0,
+            "RecommendedCount": 102,
+            "AverageOverallRating": 4.75,
+            "SecondaryRatingsAveragesOrder": [
+              "Quality",
+              "Value",
+              "Appearance1",
+              "Fit_22"
+            ],
+            "SecondaryRatingsAverages": {
+              "Appearance1": {
+                "Id": "Appearance1",
+                "AverageRating": 4.792792792792793,
+                "MinLabel": null,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "ValueRange": 5
+              },
+              "Quality": {
+                "Id": "Quality",
+                "AverageRating": 4.836363636363636,
+                "MinLabel": null,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "ValueRange": 5
+              },
+              "Fit_22": {
+                "Id": "Fit_22",
+                "AverageRating": 3.1376146788990824,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MinLabel": null,
+                "MaxLabel": null
+              },
+              "Value": {
+                "Id": "Value",
+                "AverageRating": 4.801801801801802,
+                "MinLabel": null,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "ValueRange": 5
+              }
+            },
+            "RatingDistribution": [
+              {
+                "RatingValue": 5,
+                "Count": 124
+              },
+              {
+                "RatingValue": 4,
+                "Count": 21
+              },
+              {
+                "RatingValue": 3,
+                "Count": 4
+              },
+              {
+                "RatingValue": 2,
+                "Count": 3
+              }
+            ],
+            "HelpfulVoteCount": 6,
+            "ContextDataDistributionOrder": [
+              "Age",
+              "Gender",
+              "ReadReviews",
+              "WhereDidYouPurchase"
+            ],
+            "ContextDataDistribution": {
+              "Age": {
+                "Id": "Age",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "17orUnder"
+                  },
+                  {
+                    "Count": 22,
+                    "Value": "25to34"
+                  },
+                  {
+                    "Count": 48,
+                    "Value": "35to44"
+                  },
+                  {
+                    "Count": 18,
+                    "Value": "45to54"
+                  },
+                  {
+                    "Count": 13,
+                    "Value": "55to64"
+                  },
+                  {
+                    "Count": 5,
+                    "Value": "65orOver"
+                  }
+                ]
+              },
+              "Gender": {
+                "Id": "Gender",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "Male"
+                  },
+                  {
+                    "Count": 108,
+                    "Value": "Female"
+                  }
+                ]
+              },
+              "ReadReviews": {
+                "Id": "ReadReviews",
+                "Values": [
+                  {
+                    "Count": 19,
+                    "Value": "Yes"
+                  },
+                  {
+                    "Count": 89,
+                    "Value": "No"
+                  }
+                ]
+              },
+              "WhereDidYouPurchase": {
+                "Id": "WhereDidYouPurchase",
+                "Values": [
+                  {
+                    "Count": 24,
+                    "Value": "online"
+                  },
+                  {
+                    "Count": 85,
+                    "Value": "instore"
+                  }
+                ]
+              }
+            },
+            "RatingsOnlyReviewCount": 38,
+            "FirstSubmissionTime": "2020-05-04T04:19:48.000+00:00",
+            "LastSubmissionTime": "2024-05-10T02:42:58.000+00:00",
+            "TotalReviewCount": 152,
+            "NotHelpfulVoteCount": 1,
+            "NotRecommendedCount": 4,
+            "TagDistribution": {},
+            "TagDistributionOrder": [],
+            "OverallRatingRange": 5,
+            "IntelligentTrustMarkDisplayEligible": true
+          },
+          "TotalReviewCount": 152,
+          "FilteredReviewStatistics": {
+            "FeaturedReviewCount": 0,
+            "RecommendedCount": 102,
+            "AverageOverallRating": 4.75,
+            "SecondaryRatingsAveragesOrder": [
+              "Quality",
+              "Value",
+              "Appearance1",
+              "Fit_22"
+            ],
+            "SecondaryRatingsAverages": {
+              "Appearance1": {
+                "Id": "Appearance1",
+                "AverageRating": 4.792792792792793,
+                "MinLabel": null,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "ValueRange": 5
+              },
+              "Quality": {
+                "Id": "Quality",
+                "AverageRating": 4.836363636363636,
+                "MinLabel": null,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "ValueRange": 5
+              },
+              "Fit_22": {
+                "Id": "Fit_22",
+                "AverageRating": 3.1376146788990824,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MinLabel": null,
+                "MaxLabel": null
+              },
+              "Value": {
+                "Id": "Value",
+                "AverageRating": 4.801801801801802,
+                "MinLabel": null,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "ValueRange": 5
+              }
+            },
+            "RatingDistribution": [
+              {
+                "RatingValue": 5,
+                "Count": 124
+              },
+              {
+                "RatingValue": 4,
+                "Count": 21
+              },
+              {
+                "RatingValue": 3,
+                "Count": 4
+              },
+              {
+                "RatingValue": 2,
+                "Count": 3
+              }
+            ],
+            "HelpfulVoteCount": 6,
+            "ContextDataDistributionOrder": [
+              "Age",
+              "Gender",
+              "ReadReviews",
+              "WhereDidYouPurchase"
+            ],
+            "ContextDataDistribution": {
+              "Age": {
+                "Id": "Age",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "17orUnder"
+                  },
+                  {
+                    "Count": 22,
+                    "Value": "25to34"
+                  },
+                  {
+                    "Count": 48,
+                    "Value": "35to44"
+                  },
+                  {
+                    "Count": 18,
+                    "Value": "45to54"
+                  },
+                  {
+                    "Count": 13,
+                    "Value": "55to64"
+                  },
+                  {
+                    "Count": 5,
+                    "Value": "65orOver"
+                  }
+                ]
+              },
+              "Gender": {
+                "Id": "Gender",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "Male"
+                  },
+                  {
+                    "Count": 108,
+                    "Value": "Female"
+                  }
+                ]
+              },
+              "ReadReviews": {
+                "Id": "ReadReviews",
+                "Values": [
+                  {
+                    "Count": 19,
+                    "Value": "Yes"
+                  },
+                  {
+                    "Count": 89,
+                    "Value": "No"
+                  }
+                ]
+              },
+              "WhereDidYouPurchase": {
+                "Id": "WhereDidYouPurchase",
+                "Values": [
+                  {
+                    "Count": 24,
+                    "Value": "online"
+                  },
+                  {
+                    "Count": 85,
+                    "Value": "instore"
+                  }
+                ]
+              }
+            },
+            "RatingsOnlyReviewCount": 38,
+            "FirstSubmissionTime": "2020-05-04T04:19:48.000+00:00",
+            "LastSubmissionTime": "2024-05-10T02:42:58.000+00:00",
+            "TotalReviewCount": 152,
+            "NotHelpfulVoteCount": 1,
+            "NotRecommendedCount": 4,
+            "TagDistribution": {},
+            "TagDistributionOrder": [],
+            "OverallRatingRange": 5
+          }
+        }
+      ],
+      "Includes": {},
+      "HasErrors": false,
+      "Errors": [],
+      "reviews": {
+        "reviews": [
+          {
+            "text": "Light control without feelng pulled in - felt great in it",
+            "username": "Luddy",
+            "userID": "1161674691",
+            "rate": 5,
+            "date": "2024-05-10T02:42:58.000+00:00"
+          },
+          {
+            "text": "Comfy and gave me a small amount of control without feeling things were too tight",
+            "username": "Luddy",
+            "userID": "1161674628",
+            "rate": 5,
+            "date": "2024-05-10T02:37:37.000+00:00"
+          },
+          {
+            "text": "Preferred the material they use to use but does the job. Nicer cut then the cheap shops too.",
+            "username": "Chene",
+            "userID": "1158614706",
+            "rate": 4,
+            "date": "2024-03-23T04:55:37.000+00:00"
+          },
+          {
+            "text": "Love this singlet great for a little suport. Extremly comfortable",
+            "username": "Jodes 81",
+            "userID": "1158196218",
+            "rate": 5,
+            "date": "2024-03-17T06:18:03.000+00:00"
+          },
+          {
+            "text": "Super soft and comfy singlet top, great to layer with any top or pair it with a skirt for hotter days",
+            "username": "Kimaw",
+            "userID": "1158044330",
+            "rate": 5,
+            "date": "2024-03-14T05:29:38.000+00:00"
+          },
+          {
+            "text": "Great top! Lovely fit. Will be buying a few more for everyday use",
+            "username": "T Kelce",
+            "userID": "1156926494",
+            "rate": 5,
+            "date": "2024-02-23T23:13:32.000+00:00"
+          },
+          {
+            "text": "White tank, great fit , comfortable, would be good as an under garment , the white was a little to sheer for me",
+            "username": "Bella282",
+            "userID": "1156197428",
+            "rate": 3,
+            "date": "2024-02-18T06:22:11.000+00:00"
+          },
+          {
+            "text": "Black tank, great fit comfortable definitely a favourite staple tank",
+            "username": "Bella282",
+            "userID": "1156204971",
+            "rate": 5,
+            "date": "2024-02-18T06:20:10.000+00:00"
+          }
+        ]
+      }
+    },
+    {
+      "Limit": 10,
+      "Offset": 0,
+      "TotalResults": 1,
+      "Locale": "en_AU",
+      "Results": [
+        {
+          "FamilyIds": [
+            "WUC-07371-07"
+          ],
+          "Name": "Lola Cotton Basic Tank-Blue Fog/Raspberry Stripe",
+          "EANs": [
+            "9346324941331"
+          ],
+          "Description": "The Lola basic tank is a simple form-fitting top with added stretch for comfort. A great layering essential for a relaxed weekend look.\u00a0Wear under cardigans or tuck into denim shorts for an easy casual outfit.FEATURES:\u2022 Stretch fabric\u2022 Form-fitting\u2022 Scoop neckline\u2022 Wardrobe essential\u2022 Made from: 95% Australian Cotton, 5% ElastaneCold gentle machine wash inside out with similar colours",
+          "ModelNumbers": [
+            "WUC-07371-07"
+          ],
+          "AttributesOrder": [
+            "BV_FE_EXPAND",
+            "BV_FE_FAMILY"
+          ],
+          "Attributes": {
+            "BV_FE_EXPAND": {
+              "Id": "BV_FE_EXPAND",
+              "Values": [
+                {
+                  "Value": "BV_FE_FAMILY:WUC-07371-07",
+                  "Locale": null
+                }
+              ]
+            },
+            "BV_FE_FAMILY": {
+              "Id": "BV_FE_FAMILY",
+              "Values": [
+                {
+                  "Value": "WUC-07371-07",
+                  "Locale": null
+                }
+              ]
+            }
+          },
+          "ImageUrl": "https://www.jeanswest.com.au/alternate/images/media/product/WUC/07371/07/s/01.jpg",
+          "Id": "WUC-07371-07",
+          "CategoryId": "BV_MISCELLANEOUS_CATEGORY",
+          "BrandExternalId": "1",
+          "Brand": {
+            "Id": "1",
+            "Name": "Jeanswest"
+          },
+          "Active": false,
+          "Disabled": false,
+          "ISBNs": [],
+          "QuestionIds": [],
+          "UPCs": [],
+          "ManufacturerPartNumbers": [],
+          "ReviewIds": [],
+          "StoryIds": [],
+          "ProductPageUrl": null,
+          "ReviewStatistics": {
+            "HelpfulVoteCount": 0,
+            "ContextDataDistributionOrder": [
+              "Age",
+              "Gender",
+              "ReadReviews",
+              "WhereDidYouPurchase"
+            ],
+            "ContextDataDistribution": {
+              "Age": {
+                "Id": "Age",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "65orOver"
+                  }
+                ]
+              },
+              "Gender": {
+                "Id": "Gender",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "Female"
+                  }
+                ]
+              },
+              "ReadReviews": {
+                "Id": "ReadReviews",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "No"
+                  }
+                ]
+              },
+              "WhereDidYouPurchase": {
+                "Id": "WhereDidYouPurchase",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "online"
+                  }
+                ]
+              }
+            },
+            "SecondaryRatingsAveragesOrder": [
+              "Quality",
+              "Value",
+              "Appearance1",
+              "Fit_22"
+            ],
+            "SecondaryRatingsAverages": {
+              "Fit_22": {
+                "Id": "Fit_22",
+                "AverageRating": 2.0,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              },
+              "Appearance1": {
+                "Id": "Appearance1",
+                "AverageRating": 5.0,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "Value": {
+                "Id": "Value",
+                "AverageRating": 5.0,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "Quality": {
+                "Id": "Quality",
+                "AverageRating": 5.0,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "MinLabel": null,
+                "ValueRange": 5
+              }
+            },
+            "AverageOverallRating": 5.0,
+            "RatingsOnlyReviewCount": 1,
+            "NotRecommendedCount": 0,
+            "NotHelpfulVoteCount": 0,
+            "RatingDistribution": [
+              {
+                "RatingValue": 5,
+                "Count": 1
+              }
+            ],
+            "FeaturedReviewCount": 0,
+            "FirstSubmissionTime": "2020-01-02T04:46:52.000+00:00",
+            "LastSubmissionTime": "2020-01-02T04:46:52.000+00:00",
+            "TotalReviewCount": 1,
+            "RecommendedCount": 1,
+            "TagDistribution": {},
+            "TagDistributionOrder": [],
+            "OverallRatingRange": 5,
+            "IntelligentTrustMarkDisplayEligible": true
+          },
+          "TotalReviewCount": 1,
+          "FilteredReviewStatistics": {
+            "HelpfulVoteCount": 0,
+            "ContextDataDistributionOrder": [
+              "Age",
+              "Gender",
+              "ReadReviews",
+              "WhereDidYouPurchase"
+            ],
+            "ContextDataDistribution": {
+              "Age": {
+                "Id": "Age",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "65orOver"
+                  }
+                ]
+              },
+              "Gender": {
+                "Id": "Gender",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "Female"
+                  }
+                ]
+              },
+              "ReadReviews": {
+                "Id": "ReadReviews",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "No"
+                  }
+                ]
+              },
+              "WhereDidYouPurchase": {
+                "Id": "WhereDidYouPurchase",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "online"
+                  }
+                ]
+              }
+            },
+            "SecondaryRatingsAveragesOrder": [
+              "Quality",
+              "Value",
+              "Appearance1",
+              "Fit_22"
+            ],
+            "SecondaryRatingsAverages": {
+              "Fit_22": {
+                "Id": "Fit_22",
+                "AverageRating": 2.0,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              },
+              "Appearance1": {
+                "Id": "Appearance1",
+                "AverageRating": 5.0,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "Value": {
+                "Id": "Value",
+                "AverageRating": 5.0,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "Quality": {
+                "Id": "Quality",
+                "AverageRating": 5.0,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "MinLabel": null,
+                "ValueRange": 5
+              }
+            },
+            "AverageOverallRating": 5.0,
+            "RatingsOnlyReviewCount": 1,
+            "NotRecommendedCount": 0,
+            "NotHelpfulVoteCount": 0,
+            "RatingDistribution": [
+              {
+                "RatingValue": 5,
+                "Count": 1
+              }
+            ],
+            "FeaturedReviewCount": 0,
+            "FirstSubmissionTime": "2020-01-02T04:46:52.000+00:00",
+            "LastSubmissionTime": "2020-01-02T04:46:52.000+00:00",
+            "TotalReviewCount": 1,
+            "RecommendedCount": 1,
+            "TagDistribution": {},
+            "TagDistributionOrder": [],
+            "OverallRatingRange": 5
+          }
+        }
+      ],
+      "Includes": {},
+      "HasErrors": false,
+      "Errors": [],
+      "reviews": {
+        "reviews": []
+      }
+    },
+    {
+      "Limit": 10,
+      "Offset": 0,
+      "TotalResults": 1,
+      "Locale": "en_AU",
+      "Results": [
+        {
+          "FamilyIds": [
+            "WUC-07371-06"
+          ],
+          "AttributesOrder": [
+            "INVALID_IMAGE_URL",
+            "BV_FE_EXPAND",
+            "BV_FE_FAMILY"
+          ],
+          "Attributes": {
+            "INVALID_IMAGE_URL": {
+              "Id": "INVALID_IMAGE_URL",
+              "Values": [
+                {
+                  "Value": "/on/demandware.static/-/Sites-jeanswest-master-catalog/default/dw40dbeb96/images/WUC-07371/WUC-07371_03_IM_01_Lola-Tank-Navy.jpg",
+                  "Locale": "en_AU"
+                }
+              ]
+            },
+            "BV_FE_EXPAND": {
+              "Id": "BV_FE_EXPAND",
+              "Values": [
+                {
+                  "Value": "BV_FE_FAMILY:WUC-07371-06",
+                  "Locale": null
+                }
+              ]
+            },
+            "BV_FE_FAMILY": {
+              "Id": "BV_FE_FAMILY",
+              "Values": [
+                {
+                  "Value": "WUC-07371-06",
+                  "Locale": null
+                }
+              ]
+            }
+          },
+          "Name": "Lola Cotton Basic Tank",
+          "EANs": [
+            "9346324882207",
+            "9346324940976",
+            "9346324882184",
+            "9346324940983",
+            "9346324940969",
+            "9346324940945",
+            "9346324941331",
+            "9346324941324",
+            "9346324940952",
+            "9346324941300",
+            "9346324941294",
+            "9346324941317",
+            "9346324882177"
+          ],
+          "Description": "Lola Cotton Basic Tank",
+          "ModelNumbers": [
+            "WUC-07371-06"
+          ],
+          "ImageUrl": "https://www.jeanswest.com.au/alternate/images/media/product/WUC/07371/06/s/01.jpg",
+          "Id": "WUC-07371-06",
+          "CategoryId": "BV_MISCELLANEOUS_CATEGORY",
+          "BrandExternalId": "1",
+          "Brand": {
+            "Id": "1",
+            "Name": "Jeanswest"
+          },
+          "Active": false,
+          "Disabled": false,
+          "ISBNs": [],
+          "QuestionIds": [],
+          "UPCs": [],
+          "ReviewIds": [],
+          "ManufacturerPartNumbers": [],
+          "StoryIds": [],
+          "ProductPageUrl": null,
+          "ReviewStatistics": {
+            "RatingsOnlyReviewCount": 0,
+            "SecondaryRatingsAveragesOrder": [
+              "Quality",
+              "Value",
+              "Appearance1",
+              "Fit_22"
+            ],
+            "SecondaryRatingsAverages": {
+              "Fit_22": {
+                "Id": "Fit_22",
+                "AverageRating": 3.6666666666666665,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MinLabel": null,
+                "MaxLabel": null
+              },
+              "Appearance1": {
+                "Id": "Appearance1",
+                "AverageRating": 5.0,
+                "MinLabel": null,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "ValueRange": 5
+              },
+              "Quality": {
+                "Id": "Quality",
+                "AverageRating": 4.666666666666667,
+                "MinLabel": null,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "ValueRange": 5
+              },
+              "Value": {
+                "Id": "Value",
+                "AverageRating": 4.666666666666667,
+                "MinLabel": null,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "ValueRange": 5
+              }
+            },
+            "ContextDataDistributionOrder": [
+              "Age",
+              "Gender",
+              "ReadReviews",
+              "WhereDidYouPurchase"
+            ],
+            "ContextDataDistribution": {
+              "Age": {
+                "Id": "Age",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "35to44"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "45to54"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "65orOver"
+                  }
+                ]
+              },
+              "Gender": {
+                "Id": "Gender",
+                "Values": [
+                  {
+                    "Count": 3,
+                    "Value": "Female"
+                  }
+                ]
+              },
+              "ReadReviews": {
+                "Id": "ReadReviews",
+                "Values": [
+                  {
+                    "Count": 3,
+                    "Value": "No"
+                  }
+                ]
+              },
+              "WhereDidYouPurchase": {
+                "Id": "WhereDidYouPurchase",
+                "Values": [
+                  {
+                    "Count": 2,
+                    "Value": "online"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "instore"
+                  }
+                ]
+              }
+            },
+            "FeaturedReviewCount": 0,
+            "NotHelpfulVoteCount": 0,
+            "NotRecommendedCount": 0,
+            "RatingDistribution": [
+              {
+                "RatingValue": 5,
+                "Count": 2
+              },
+              {
+                "RatingValue": 4,
+                "Count": 1
+              }
+            ],
+            "AverageOverallRating": 4.666666666666667,
+            "TotalReviewCount": 3,
+            "FirstSubmissionTime": "2019-11-27T03:19:00.000+00:00",
+            "LastSubmissionTime": "2020-02-07T08:32:56.000+00:00",
+            "RecommendedCount": 3,
+            "HelpfulVoteCount": 0,
+            "OverallRatingRange": 5,
+            "TagDistribution": {},
+            "TagDistributionOrder": [],
+            "IntelligentTrustMarkDisplayEligible": true
+          },
+          "TotalReviewCount": 3,
+          "FilteredReviewStatistics": {
+            "RatingsOnlyReviewCount": 0,
+            "SecondaryRatingsAveragesOrder": [
+              "Quality",
+              "Value",
+              "Appearance1",
+              "Fit_22"
+            ],
+            "SecondaryRatingsAverages": {
+              "Fit_22": {
+                "Id": "Fit_22",
+                "AverageRating": 3.6666666666666665,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MinLabel": null,
+                "MaxLabel": null
+              },
+              "Appearance1": {
+                "Id": "Appearance1",
+                "AverageRating": 5.0,
+                "MinLabel": null,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "ValueRange": 5
+              },
+              "Quality": {
+                "Id": "Quality",
+                "AverageRating": 4.666666666666667,
+                "MinLabel": null,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "ValueRange": 5
+              },
+              "Value": {
+                "Id": "Value",
+                "AverageRating": 4.666666666666667,
+                "MinLabel": null,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "ValueRange": 5
+              }
+            },
+            "ContextDataDistributionOrder": [
+              "Age",
+              "Gender",
+              "ReadReviews",
+              "WhereDidYouPurchase"
+            ],
+            "ContextDataDistribution": {
+              "Age": {
+                "Id": "Age",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "35to44"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "45to54"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "65orOver"
+                  }
+                ]
+              },
+              "Gender": {
+                "Id": "Gender",
+                "Values": [
+                  {
+                    "Count": 3,
+                    "Value": "Female"
+                  }
+                ]
+              },
+              "ReadReviews": {
+                "Id": "ReadReviews",
+                "Values": [
+                  {
+                    "Count": 3,
+                    "Value": "No"
+                  }
+                ]
+              },
+              "WhereDidYouPurchase": {
+                "Id": "WhereDidYouPurchase",
+                "Values": [
+                  {
+                    "Count": 2,
+                    "Value": "online"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "instore"
+                  }
+                ]
+              }
+            },
+            "FeaturedReviewCount": 0,
+            "NotHelpfulVoteCount": 0,
+            "NotRecommendedCount": 0,
+            "RatingDistribution": [
+              {
+                "RatingValue": 5,
+                "Count": 2
+              },
+              {
+                "RatingValue": 4,
+                "Count": 1
+              }
+            ],
+            "AverageOverallRating": 4.666666666666667,
+            "TotalReviewCount": 3,
+            "FirstSubmissionTime": "2019-11-27T03:19:00.000+00:00",
+            "LastSubmissionTime": "2020-02-07T08:32:56.000+00:00",
+            "RecommendedCount": 3,
+            "HelpfulVoteCount": 0,
+            "OverallRatingRange": 5,
+            "TagDistribution": {},
+            "TagDistributionOrder": []
+          }
+        }
+      ],
+      "Includes": {},
+      "HasErrors": false,
+      "Errors": [],
+      "reviews": {
+        "reviews": [
+          {
+            "text": "Nice top, but sizing a bit more generous than I expected.",
+            "username": "Dress8",
+            "userID": "1066987464",
+            "rate": 4,
+            "date": "2020-02-07T08:32:56.000+00:00"
+          },
+          {
+            "text": "Best singlet I've ever bought. I ended up buying it in every colour",
+            "username": "Kristy2000",
+            "userID": "1065380459",
+            "rate": 5,
+            "date": "2019-12-26T20:19:20.000+00:00"
+          },
+          {
+            "text": "I have been wearing \"LOLA\" tanks for years, as they are cool and comfortable.  I'm so glad to see them in colours again now.",
+            "username": "ARCpoint",
+            "userID": "1064267674",
+            "rate": 5,
+            "date": "2019-11-27T03:19:00.000+00:00"
+          }
+        ]
+      }
+    },
+    {
+      "Limit": 10,
+      "Offset": 0,
+      "TotalResults": 1,
+      "Locale": "en_AU",
+      "Results": [
+        {
+          "FamilyIds": [
+            "WUC-07371-05"
+          ],
+          "Name": "Lola Cotton Basic Tank-Lemon",
+          "EANs": [
+            "9346324892947"
+          ],
+          "Description": "The Lola basic tank is a simple form-fitting top with added stretch for comfort. A great layering essential for a relaxed weekend look.\u00a0Wear under cardigans or tuck into denim shorts for an easy casual outfit.FEATURES:\u2022 Stretch fabric\u2022 Form-fitting\u2022 Scoop neckline\u2022 Wardrobe essential\u2022 Made from: 95% Australian Cotton, 5% ElastaneCold gentle machine wash inside out with similar colours",
+          "ModelNumbers": [
+            "WUC-07371-05"
+          ],
+          "AttributesOrder": [
+            "BV_FE_EXPAND",
+            "BV_FE_FAMILY"
+          ],
+          "Attributes": {
+            "BV_FE_EXPAND": {
+              "Id": "BV_FE_EXPAND",
+              "Values": [
+                {
+                  "Value": "BV_FE_FAMILY:WUC-07371-05",
+                  "Locale": null
+                }
+              ]
+            },
+            "BV_FE_FAMILY": {
+              "Id": "BV_FE_FAMILY",
+              "Values": [
+                {
+                  "Value": "WUC-07371-05",
+                  "Locale": null
+                }
+              ]
+            }
+          },
+          "ImageUrl": "https://www.jeanswest.com.au/alternate/images/media/product/WUC/07371/05/s/02.jpg",
+          "Id": "WUC-07371-05",
+          "CategoryId": "BV_MISCELLANEOUS_CATEGORY",
+          "BrandExternalId": "1",
+          "Brand": {
+            "Id": "1",
+            "Name": "Jeanswest"
+          },
+          "Active": false,
+          "Disabled": false,
+          "ISBNs": [],
+          "QuestionIds": [],
+          "StoryIds": [],
+          "ProductPageUrl": null,
+          "ManufacturerPartNumbers": [],
+          "ReviewIds": [],
+          "UPCs": [],
+          "ReviewStatistics": {
+            "RatingsOnlyReviewCount": 0,
+            "FirstSubmissionTime": "2019-11-30T01:57:27.000+00:00",
+            "LastSubmissionTime": "2019-12-15T19:41:19.000+00:00",
+            "RatingDistribution": [
+              {
+                "RatingValue": 5,
+                "Count": 3
+              }
+            ],
+            "FeaturedReviewCount": 0,
+            "AverageOverallRating": 5.0,
+            "NotHelpfulVoteCount": 0,
+            "RecommendedCount": 3,
+            "SecondaryRatingsAveragesOrder": [
+              "Quality",
+              "Value",
+              "Appearance1",
+              "Fit_22"
+            ],
+            "SecondaryRatingsAverages": {
+              "Quality": {
+                "Id": "Quality",
+                "AverageRating": 4.666666666666667,
+                "MaxLabel": null,
+                "MinLabel": null,
+                "ValueRange": 5,
+                "DisplayType": "NORMAL"
+              },
+              "Appearance1": {
+                "Id": "Appearance1",
+                "AverageRating": 4.666666666666667,
+                "MaxLabel": null,
+                "MinLabel": null,
+                "ValueRange": 5,
+                "DisplayType": "NORMAL"
+              },
+              "Value": {
+                "Id": "Value",
+                "AverageRating": 4.666666666666667,
+                "MaxLabel": null,
+                "MinLabel": null,
+                "ValueRange": 5,
+                "DisplayType": "NORMAL"
+              },
+              "Fit_22": {
+                "Id": "Fit_22",
+                "AverageRating": 3.0,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              }
+            },
+            "ContextDataDistributionOrder": [
+              "Age",
+              "Gender",
+              "ReadReviews",
+              "WhereDidYouPurchase"
+            ],
+            "ContextDataDistribution": {
+              "Age": {
+                "Id": "Age",
+                "Values": [
+                  {
+                    "Count": 2,
+                    "Value": "25to34"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "35to44"
+                  }
+                ]
+              },
+              "Gender": {
+                "Id": "Gender",
+                "Values": [
+                  {
+                    "Count": 3,
+                    "Value": "Female"
+                  }
+                ]
+              },
+              "ReadReviews": {
+                "Id": "ReadReviews",
+                "Values": [
+                  {
+                    "Count": 3,
+                    "Value": "No"
+                  }
+                ]
+              },
+              "WhereDidYouPurchase": {
+                "Id": "WhereDidYouPurchase",
+                "Values": [
+                  {
+                    "Count": 3,
+                    "Value": "online"
+                  }
+                ]
+              }
+            },
+            "TotalReviewCount": 3,
+            "HelpfulVoteCount": 0,
+            "NotRecommendedCount": 0,
+            "TagDistributionOrder": [],
+            "TagDistribution": {},
+            "OverallRatingRange": 5,
+            "IntelligentTrustMarkDisplayEligible": true
+          },
+          "TotalReviewCount": 3,
+          "FilteredReviewStatistics": {
+            "RatingsOnlyReviewCount": 0,
+            "FirstSubmissionTime": "2019-11-30T01:57:27.000+00:00",
+            "LastSubmissionTime": "2019-12-15T19:41:19.000+00:00",
+            "RatingDistribution": [
+              {
+                "RatingValue": 5,
+                "Count": 3
+              }
+            ],
+            "FeaturedReviewCount": 0,
+            "AverageOverallRating": 5.0,
+            "NotHelpfulVoteCount": 0,
+            "RecommendedCount": 3,
+            "SecondaryRatingsAveragesOrder": [
+              "Quality",
+              "Value",
+              "Appearance1",
+              "Fit_22"
+            ],
+            "SecondaryRatingsAverages": {
+              "Quality": {
+                "Id": "Quality",
+                "AverageRating": 4.666666666666667,
+                "MaxLabel": null,
+                "MinLabel": null,
+                "ValueRange": 5,
+                "DisplayType": "NORMAL"
+              },
+              "Appearance1": {
+                "Id": "Appearance1",
+                "AverageRating": 4.666666666666667,
+                "MaxLabel": null,
+                "MinLabel": null,
+                "ValueRange": 5,
+                "DisplayType": "NORMAL"
+              },
+              "Value": {
+                "Id": "Value",
+                "AverageRating": 4.666666666666667,
+                "MaxLabel": null,
+                "MinLabel": null,
+                "ValueRange": 5,
+                "DisplayType": "NORMAL"
+              },
+              "Fit_22": {
+                "Id": "Fit_22",
+                "AverageRating": 3.0,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              }
+            },
+            "ContextDataDistributionOrder": [
+              "Age",
+              "Gender",
+              "ReadReviews",
+              "WhereDidYouPurchase"
+            ],
+            "ContextDataDistribution": {
+              "Age": {
+                "Id": "Age",
+                "Values": [
+                  {
+                    "Count": 2,
+                    "Value": "25to34"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "35to44"
+                  }
+                ]
+              },
+              "Gender": {
+                "Id": "Gender",
+                "Values": [
+                  {
+                    "Count": 3,
+                    "Value": "Female"
+                  }
+                ]
+              },
+              "ReadReviews": {
+                "Id": "ReadReviews",
+                "Values": [
+                  {
+                    "Count": 3,
+                    "Value": "No"
+                  }
+                ]
+              },
+              "WhereDidYouPurchase": {
+                "Id": "WhereDidYouPurchase",
+                "Values": [
+                  {
+                    "Count": 3,
+                    "Value": "online"
+                  }
+                ]
+              }
+            },
+            "TotalReviewCount": 3,
+            "HelpfulVoteCount": 0,
+            "NotRecommendedCount": 0,
+            "TagDistributionOrder": [],
+            "TagDistribution": {},
+            "OverallRatingRange": 5
+          }
+        }
+      ],
+      "Includes": {},
+      "HasErrors": false,
+      "Errors": [],
+      "reviews": {
+        "reviews": [
+          {
+            "text": "Great colour and quality singlet! Got lots of colours now",
+            "username": "Sharon85",
+            "userID": "1065055299",
+            "rate": 5,
+            "date": "2019-12-15T19:41:19.000+00:00"
+          },
+          {
+            "text": "I love this yellow singlet. The colour stands out and looks amazing.",
+            "username": "Nadia",
+            "userID": "1065003919",
+            "rate": 5,
+            "date": "2019-12-14T03:50:04.000+00:00"
+          },
+          {
+            "text": "Nice vest. Soft material and great colour and great fit",
+            "username": "CAbt",
+            "userID": "1064366170",
+            "rate": 5,
+            "date": "2019-11-30T01:57:27.000+00:00"
+          }
+        ]
+      }
+    },
+    {
+      "Limit": 10,
+      "Offset": 0,
+      "TotalResults": 1,
+      "Locale": "en_AU",
+      "Results": [
+        {
+          "FamilyIds": [
+            "WUC-07371-04"
+          ],
+          "AttributesOrder": [
+            "INVALID_IMAGE_URL",
+            "BV_FE_EXPAND",
+            "BV_FE_FAMILY"
+          ],
+          "Attributes": {
+            "INVALID_IMAGE_URL": {
+              "Id": "INVALID_IMAGE_URL",
+              "Values": [
+                {
+                  "Value": "/on/demandware.static/-/Sites-jeanswest-master-catalog/default/dwc5452309/images/WUC-07371/WUC-07371_04_IM_01_Lola-Tank-Khaki.jpg",
+                  "Locale": "en_AU"
+                }
+              ]
+            },
+            "BV_FE_EXPAND": {
+              "Id": "BV_FE_EXPAND",
+              "Values": [
+                {
+                  "Value": "BV_FE_FAMILY:WUC-07371-04",
+                  "Locale": null
+                }
+              ]
+            },
+            "BV_FE_FAMILY": {
+              "Id": "BV_FE_FAMILY",
+              "Values": [
+                {
+                  "Value": "WUC-07371-04",
+                  "Locale": null
+                }
+              ]
+            }
+          },
+          "Name": "Lola Cotton Basic Tank",
+          "EANs": [
+            "9346324882221",
+            "9346324882252",
+            "9346324882245",
+            "9346324882238",
+            "9346324882399"
+          ],
+          "Description": "Lola Cotton Basic Tank",
+          "ModelNumbers": [
+            "WUC-07371-04"
+          ],
+          "ImageUrl": "https://www.jeanswest.com.au/alternate/images/media/product/WUC/07371/04/s/01.jpg",
+          "Id": "WUC-07371-04",
+          "CategoryId": "BV_MISCELLANEOUS_CATEGORY",
+          "BrandExternalId": "1",
+          "Brand": {
+            "Id": "1",
+            "Name": "Jeanswest"
+          },
+          "Active": false,
+          "Disabled": false,
+          "ManufacturerPartNumbers": [],
+          "ReviewIds": [],
+          "ProductPageUrl": null,
+          "ISBNs": [],
+          "QuestionIds": [],
+          "StoryIds": [],
+          "UPCs": [],
+          "ReviewStatistics": {
+            "RatingsOnlyReviewCount": 0,
+            "SecondaryRatingsAveragesOrder": [
+              "Quality",
+              "Value",
+              "Appearance1",
+              "Fit_22"
+            ],
+            "SecondaryRatingsAverages": {
+              "Quality": {
+                "Id": "Quality",
+                "AverageRating": 5.0,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "ValueRange": 5,
+                "MinLabel": null
+              },
+              "Appearance1": {
+                "Id": "Appearance1",
+                "AverageRating": 4.5,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "ValueRange": 5,
+                "MinLabel": null
+              },
+              "Value": {
+                "Id": "Value",
+                "AverageRating": 5.0,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "ValueRange": 5,
+                "MinLabel": null
+              },
+              "Fit_22": {
+                "Id": "Fit_22",
+                "AverageRating": 3.0,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              }
+            },
+            "NotHelpfulVoteCount": 0,
+            "AverageOverallRating": 5.0,
+            "ContextDataDistributionOrder": [
+              "Age",
+              "Gender",
+              "ReadReviews",
+              "WhereDidYouPurchase"
+            ],
+            "ContextDataDistribution": {
+              "Age": {
+                "Id": "Age",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "25to34"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "35to44"
+                  }
+                ]
+              },
+              "Gender": {
+                "Id": "Gender",
+                "Values": [
+                  {
+                    "Count": 2,
+                    "Value": "Female"
+                  }
+                ]
+              },
+              "ReadReviews": {
+                "Id": "ReadReviews",
+                "Values": [
+                  {
+                    "Count": 2,
+                    "Value": "No"
+                  }
+                ]
+              },
+              "WhereDidYouPurchase": {
+                "Id": "WhereDidYouPurchase",
+                "Values": [
+                  {
+                    "Count": 2,
+                    "Value": "online"
+                  }
+                ]
+              }
+            },
+            "RecommendedCount": 2,
+            "NotRecommendedCount": 0,
+            "FeaturedReviewCount": 0,
+            "RatingDistribution": [
+              {
+                "RatingValue": 5,
+                "Count": 2
+              }
+            ],
+            "HelpfulVoteCount": 0,
+            "TotalReviewCount": 2,
+            "FirstSubmissionTime": "2019-11-03T10:02:16.000+00:00",
+            "LastSubmissionTime": "2020-01-28T00:16:58.000+00:00",
+            "TagDistribution": {},
+            "TagDistributionOrder": [],
+            "OverallRatingRange": 5,
+            "IntelligentTrustMarkDisplayEligible": true
+          },
+          "TotalReviewCount": 2,
+          "FilteredReviewStatistics": {
+            "RatingsOnlyReviewCount": 0,
+            "SecondaryRatingsAveragesOrder": [
+              "Quality",
+              "Value",
+              "Appearance1",
+              "Fit_22"
+            ],
+            "SecondaryRatingsAverages": {
+              "Quality": {
+                "Id": "Quality",
+                "AverageRating": 5.0,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "ValueRange": 5,
+                "MinLabel": null
+              },
+              "Appearance1": {
+                "Id": "Appearance1",
+                "AverageRating": 4.5,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "ValueRange": 5,
+                "MinLabel": null
+              },
+              "Value": {
+                "Id": "Value",
+                "AverageRating": 5.0,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "ValueRange": 5,
+                "MinLabel": null
+              },
+              "Fit_22": {
+                "Id": "Fit_22",
+                "AverageRating": 3.0,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              }
+            },
+            "NotHelpfulVoteCount": 0,
+            "AverageOverallRating": 5.0,
+            "ContextDataDistributionOrder": [
+              "Age",
+              "Gender",
+              "ReadReviews",
+              "WhereDidYouPurchase"
+            ],
+            "ContextDataDistribution": {
+              "Age": {
+                "Id": "Age",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "25to34"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "35to44"
+                  }
+                ]
+              },
+              "Gender": {
+                "Id": "Gender",
+                "Values": [
+                  {
+                    "Count": 2,
+                    "Value": "Female"
+                  }
+                ]
+              },
+              "ReadReviews": {
+                "Id": "ReadReviews",
+                "Values": [
+                  {
+                    "Count": 2,
+                    "Value": "No"
+                  }
+                ]
+              },
+              "WhereDidYouPurchase": {
+                "Id": "WhereDidYouPurchase",
+                "Values": [
+                  {
+                    "Count": 2,
+                    "Value": "online"
+                  }
+                ]
+              }
+            },
+            "RecommendedCount": 2,
+            "NotRecommendedCount": 0,
+            "FeaturedReviewCount": 0,
+            "RatingDistribution": [
+              {
+                "RatingValue": 5,
+                "Count": 2
+              }
+            ],
+            "HelpfulVoteCount": 0,
+            "TotalReviewCount": 2,
+            "FirstSubmissionTime": "2019-11-03T10:02:16.000+00:00",
+            "LastSubmissionTime": "2020-01-28T00:16:58.000+00:00",
+            "TagDistribution": {},
+            "TagDistributionOrder": [],
+            "OverallRatingRange": 5
+          }
+        }
+      ],
+      "Includes": {},
+      "HasErrors": false,
+      "Errors": [],
+      "reviews": {
+        "reviews": [
+          {
+            "text": "I love these singlets, over the years have bough them in the many colours they come out in. Just a great fit.",
+            "username": "Coos",
+            "userID": "1066639033",
+            "rate": 5,
+            "date": "2020-01-28T00:16:58.000+00:00"
+          },
+          {
+            "text": "Its been a while since I bought my last lot of tanks (because they literally last years!) and I was worried about a change of fabric. When they arrived it felt finer and slightly tighter than older tank fabric, but after washing I feel like these softened ou and gave ever so slightly. Still love them and they are just as good as they were ten years ago. Plus - what a stellar price.",
+            "username": "sfoursarah",
+            "userID": "1063214309",
+            "rate": 5,
+            "date": "2019-11-03T10:02:16.000+00:00"
+          }
+        ]
+      }
+    },
+    {
+      "Limit": 10,
+      "Offset": 0,
+      "TotalResults": 1,
+      "Locale": "en_AU",
+      "Results": [
+        {
+          "FamilyIds": [
+            "WUC-07371-03"
+          ],
+          "AttributesOrder": [
+            "INVALID_IMAGE_URL",
+            "BV_FE_EXPAND",
+            "BV_FE_FAMILY"
+          ],
+          "Attributes": {
+            "INVALID_IMAGE_URL": {
+              "Id": "INVALID_IMAGE_URL",
+              "Values": [
+                {
+                  "Value": "/on/demandware.static/-/Sites-jeanswest-master-catalog/default/dw40dbeb96/images/WUC-07371/WUC-07371_03_IM_01_Lola-Tank-Navy.jpg",
+                  "Locale": null
+                }
+              ]
+            },
+            "BV_FE_EXPAND": {
+              "Id": "BV_FE_EXPAND",
+              "Values": [
+                {
+                  "Value": "BV_FE_FAMILY:WUC-07371-03",
+                  "Locale": null
+                }
+              ]
+            },
+            "BV_FE_FAMILY": {
+              "Id": "BV_FE_FAMILY",
+              "Values": [
+                {
+                  "Value": "WUC-07371-03",
+                  "Locale": null
+                }
+              ]
+            }
+          },
+          "Name": "Lola Cotton Basic Tank-Navy",
+          "EANs": [
+            "9346324882177",
+            "9346324882184",
+            "9346324882207"
+          ],
+          "Description": "The Lola basic tank is a simple form-fitting top with added stretch for comfort. A great layering essential for a relaxed weekend look.\u00a0Wear under cardigans or tuck into denim shorts for an easy casual outfit.FEATURES:\u2022 Stretch fabric\u2022 Form-fitting\u2022 Scoop neckline\u2022 Wardrobe essential\u2022 Made from: 95% Australian Cotton, 5% ElastaneCold gentle machine wash inside out with similar colours",
+          "ModelNumbers": [
+            "WUC-07371-03"
+          ],
+          "ImageUrl": "https://www.jeanswest.com.au/alternate/images/media/product/WUC/07371/03/s/01.jpg",
+          "Id": "WUC-07371-03",
+          "CategoryId": "BV_MISCELLANEOUS_CATEGORY",
+          "BrandExternalId": "1",
+          "Brand": {
+            "Id": "1",
+            "Name": "Jeanswest"
+          },
+          "Active": false,
+          "Disabled": false,
+          "ReviewIds": [],
+          "ManufacturerPartNumbers": [],
+          "ProductPageUrl": null,
+          "StoryIds": [],
+          "QuestionIds": [],
+          "ISBNs": [],
+          "UPCs": [],
+          "ReviewStatistics": {
+            "RatingsOnlyReviewCount": 0,
+            "ContextDataDistributionOrder": [
+              "Age",
+              "Gender",
+              "ReadReviews",
+              "WhereDidYouPurchase"
+            ],
+            "ContextDataDistribution": {
+              "Age": {
+                "Id": "Age",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "18to24"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "25to34"
+                  },
+                  {
+                    "Count": 3,
+                    "Value": "35to44"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "65orOver"
+                  }
+                ]
+              },
+              "Gender": {
+                "Id": "Gender",
+                "Values": [
+                  {
+                    "Count": 6,
+                    "Value": "Female"
+                  }
+                ]
+              },
+              "ReadReviews": {
+                "Id": "ReadReviews",
+                "Values": [
+                  {
+                    "Count": 2,
+                    "Value": "Yes"
+                  },
+                  {
+                    "Count": 4,
+                    "Value": "No"
+                  }
+                ]
+              },
+              "WhereDidYouPurchase": {
+                "Id": "WhereDidYouPurchase",
+                "Values": [
+                  {
+                    "Count": 5,
+                    "Value": "online"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "instore"
+                  }
+                ]
+              }
+            },
+            "RatingDistribution": [
+              {
+                "RatingValue": 5,
+                "Count": 6
+              }
+            ],
+            "NotRecommendedCount": 0,
+            "NotHelpfulVoteCount": 0,
+            "FeaturedReviewCount": 0,
+            "SecondaryRatingsAveragesOrder": [
+              "Quality",
+              "Value",
+              "Appearance1",
+              "Fit_22"
+            ],
+            "SecondaryRatingsAverages": {
+              "Fit_22": {
+                "Id": "Fit_22",
+                "AverageRating": 3.0,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              },
+              "Value": {
+                "Id": "Value",
+                "AverageRating": 5.0,
+                "DisplayType": "NORMAL",
+                "MaxLabel": null,
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "Appearance1": {
+                "Id": "Appearance1",
+                "AverageRating": 5.0,
+                "DisplayType": "NORMAL",
+                "MaxLabel": null,
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "Quality": {
+                "Id": "Quality",
+                "AverageRating": 5.0,
+                "DisplayType": "NORMAL",
+                "MaxLabel": null,
+                "MinLabel": null,
+                "ValueRange": 5
+              }
+            },
+            "RecommendedCount": 6,
+            "FirstSubmissionTime": "2019-09-20T07:04:50.000+00:00",
+            "LastSubmissionTime": "2019-12-26T20:23:05.000+00:00",
+            "HelpfulVoteCount": 0,
+            "AverageOverallRating": 5.0,
+            "TotalReviewCount": 6,
+            "TagDistribution": {},
+            "OverallRatingRange": 5,
+            "TagDistributionOrder": [],
+            "IntelligentTrustMarkDisplayEligible": true
+          },
+          "TotalReviewCount": 6,
+          "FilteredReviewStatistics": {
+            "RatingsOnlyReviewCount": 0,
+            "ContextDataDistributionOrder": [
+              "Age",
+              "Gender",
+              "ReadReviews",
+              "WhereDidYouPurchase"
+            ],
+            "ContextDataDistribution": {
+              "Age": {
+                "Id": "Age",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "18to24"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "25to34"
+                  },
+                  {
+                    "Count": 3,
+                    "Value": "35to44"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "65orOver"
+                  }
+                ]
+              },
+              "Gender": {
+                "Id": "Gender",
+                "Values": [
+                  {
+                    "Count": 6,
+                    "Value": "Female"
+                  }
+                ]
+              },
+              "ReadReviews": {
+                "Id": "ReadReviews",
+                "Values": [
+                  {
+                    "Count": 2,
+                    "Value": "Yes"
+                  },
+                  {
+                    "Count": 4,
+                    "Value": "No"
+                  }
+                ]
+              },
+              "WhereDidYouPurchase": {
+                "Id": "WhereDidYouPurchase",
+                "Values": [
+                  {
+                    "Count": 5,
+                    "Value": "online"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "instore"
+                  }
+                ]
+              }
+            },
+            "RatingDistribution": [
+              {
+                "RatingValue": 5,
+                "Count": 6
+              }
+            ],
+            "NotRecommendedCount": 0,
+            "NotHelpfulVoteCount": 0,
+            "FeaturedReviewCount": 0,
+            "SecondaryRatingsAveragesOrder": [
+              "Quality",
+              "Value",
+              "Appearance1",
+              "Fit_22"
+            ],
+            "SecondaryRatingsAverages": {
+              "Fit_22": {
+                "Id": "Fit_22",
+                "AverageRating": 3.0,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              },
+              "Value": {
+                "Id": "Value",
+                "AverageRating": 5.0,
+                "DisplayType": "NORMAL",
+                "MaxLabel": null,
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "Appearance1": {
+                "Id": "Appearance1",
+                "AverageRating": 5.0,
+                "DisplayType": "NORMAL",
+                "MaxLabel": null,
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "Quality": {
+                "Id": "Quality",
+                "AverageRating": 5.0,
+                "DisplayType": "NORMAL",
+                "MaxLabel": null,
+                "MinLabel": null,
+                "ValueRange": 5
+              }
+            },
+            "RecommendedCount": 6,
+            "FirstSubmissionTime": "2019-09-20T07:04:50.000+00:00",
+            "LastSubmissionTime": "2019-12-26T20:23:05.000+00:00",
+            "HelpfulVoteCount": 0,
+            "AverageOverallRating": 5.0,
+            "TotalReviewCount": 6,
+            "TagDistribution": {},
+            "OverallRatingRange": 5,
+            "TagDistributionOrder": []
+          }
+        }
+      ],
+      "Includes": {},
+      "HasErrors": false,
+      "Errors": [],
+      "reviews": {
+        "reviews": [
+          {
+            "text": "Best singlet I've ever bought. I've bought all the colours",
+            "username": "Kristy2000",
+            "userID": "1065380575",
+            "rate": 5,
+            "date": "2019-12-26T20:23:05.000+00:00"
+          },
+          {
+            "text": "I purchased this singlet on sale for less than $10 and its great. It fits perfectly.",
+            "username": "Pooky",
+            "userID": "1064305049",
+            "rate": 5,
+            "date": "2019-11-28T07:22:54.000+00:00"
+          },
+          {
+            "text": "I already own a white one of these and love the fact it's a good length. Great to wear under shirts.",
+            "username": "charz",
+            "userID": "1063083555",
+            "rate": 5,
+            "date": "2019-10-29T21:52:22.000+00:00"
+          },
+          {
+            "text": "I bought three of these - a black and a white as well as navy to complement my wardrobe! They are versatile and a great addition thank you!  ALSO a brilliant price on sale......",
+            "username": "AnnahB",
+            "userID": "1063061867",
+            "rate": 5,
+            "date": "2019-10-29T10:20:21.000+00:00"
+          },
+          {
+            "text": "Absolutely love this tank - it's perfect! I bought it in Navy recently online and am so glad the size Small I chose fit just fine. Am wearing it loads with the warmer weather in Queensland and can easily mix and match it to casual outfits like shorts or as part of a smart casual outfit for evening with jeans & 3/4 sleeve cardi.",
+            "username": "mlr03",
+            "userID": "1062611212",
+            "rate": 5,
+            "date": "2019-10-24T00:47:13.000+00:00"
+          },
+          {
+            "text": "I bought this item this week  Love it and looks good on",
+            "username": "Newman1",
+            "userID": "1060848092",
+            "rate": 5,
+            "date": "2019-09-20T07:04:50.000+00:00"
+          }
+        ]
+      }
+    },
+    {
+      "Limit": 10,
+      "Offset": 0,
+      "TotalResults": 1,
+      "Locale": "en_AU",
+      "Results": [
+        {
+          "FamilyIds": [
+            "WUC-07371-02"
+          ],
+          "AttributesOrder": [
+            "INVALID_IMAGE_URL",
+            "BV_FE_EXPAND",
+            "BV_FE_FAMILY"
+          ],
+          "Attributes": {
+            "INVALID_IMAGE_URL": {
+              "Id": "INVALID_IMAGE_URL",
+              "Values": [
+                {
+                  "Value": "/on/demandware.static/-/Sites-jeanswest-master-catalog/default/dwac3ef37e/images/WUC-07371/WUC-07371_02_IM_01_Lola-Basic-Tank-White.jpg",
+                  "Locale": null
+                }
+              ]
+            },
+            "BV_FE_EXPAND": {
+              "Id": "BV_FE_EXPAND",
+              "Values": [
+                {
+                  "Value": "BV_FE_FAMILY:WUC-07371-02",
+                  "Locale": null
+                }
+              ]
+            },
+            "BV_FE_FAMILY": {
+              "Id": "BV_FE_FAMILY",
+              "Values": [
+                {
+                  "Value": "WUC-07371-02",
+                  "Locale": null
+                }
+              ]
+            }
+          },
+          "Name": "Lola Cotton Basic Tank-White",
+          "EANs": [
+            "9346324655672",
+            "9346324655658",
+            "9346324655634",
+            "9346324655610",
+            "9346324655597"
+          ],
+          "Description": "The Lola basic tank is a simple form-fitting top with added stretch for comfort. A great layering essential for a relaxed weekend look.\u00a0Wear under cardigans or tuck into denim shorts for an easy casual outfit.FEATURES:\u2022 Stretch fabric\u2022 Form-fitting\u2022 Scoop neckline\u2022 Wardrobe essential\u2022 Made from: 95% Australian Cotton, 5% ElastaneCold gentle machine wash inside out with similar colours",
+          "ModelNumbers": [
+            "WUC-07371-02"
+          ],
+          "ImageUrl": "https://www.jeanswest.com.au/alternate/images/media/product/WUC/07371/02/s/01.jpg",
+          "Id": "WUC-07371-02",
+          "CategoryId": "BV_MISCELLANEOUS_CATEGORY",
+          "BrandExternalId": "1",
+          "Brand": {
+            "Id": "1",
+            "Name": "Jeanswest"
+          },
+          "Active": false,
+          "Disabled": false,
+          "QuestionIds": [],
+          "ISBNs": [],
+          "UPCs": [],
+          "StoryIds": [],
+          "ProductPageUrl": null,
+          "ReviewIds": [],
+          "ManufacturerPartNumbers": [],
+          "ReviewStatistics": {
+            "ContextDataDistributionOrder": [
+              "Age",
+              "Gender",
+              "ReadReviews",
+              "WhereDidYouPurchase"
+            ],
+            "ContextDataDistribution": {
+              "Age": {
+                "Id": "Age",
+                "Values": [
+                  {
+                    "Count": 5,
+                    "Value": "25to34"
+                  },
+                  {
+                    "Count": 4,
+                    "Value": "35to44"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "65orOver"
+                  }
+                ]
+              },
+              "Gender": {
+                "Id": "Gender",
+                "Values": [
+                  {
+                    "Count": 10,
+                    "Value": "Female"
+                  }
+                ]
+              },
+              "ReadReviews": {
+                "Id": "ReadReviews",
+                "Values": [
+                  {
+                    "Count": 4,
+                    "Value": "Yes"
+                  },
+                  {
+                    "Count": 4,
+                    "Value": "No"
+                  }
+                ]
+              },
+              "WhereDidYouPurchase": {
+                "Id": "WhereDidYouPurchase",
+                "Values": [
+                  {
+                    "Count": 8,
+                    "Value": "online"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "instore"
+                  }
+                ]
+              }
+            },
+            "SecondaryRatingsAveragesOrder": [
+              "Quality",
+              "Value",
+              "Appearance1",
+              "Fit_22"
+            ],
+            "SecondaryRatingsAverages": {
+              "Quality": {
+                "Id": "Quality",
+                "AverageRating": 4.8,
+                "ValueRange": 5,
+                "MinLabel": null,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL"
+              },
+              "Fit_22": {
+                "Id": "Fit_22",
+                "AverageRating": 3.1,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MinLabel": null,
+                "MaxLabel": null
+              },
+              "Value": {
+                "Id": "Value",
+                "AverageRating": 4.6,
+                "ValueRange": 5,
+                "MinLabel": null,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL"
+              },
+              "Appearance1": {
+                "Id": "Appearance1",
+                "AverageRating": 4.8,
+                "ValueRange": 5,
+                "MinLabel": null,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL"
+              }
+            },
+            "NotHelpfulVoteCount": 0,
+            "RatingsOnlyReviewCount": 1,
+            "FirstSubmissionTime": "2019-02-02T00:17:18.000+00:00",
+            "LastSubmissionTime": "2020-01-28T00:19:11.000+00:00",
+            "AverageOverallRating": 4.8,
+            "RecommendedCount": 9,
+            "HelpfulVoteCount": 0,
+            "RatingDistribution": [
+              {
+                "RatingValue": 5,
+                "Count": 8
+              },
+              {
+                "RatingValue": 4,
+                "Count": 2
+              }
+            ],
+            "TotalReviewCount": 10,
+            "NotRecommendedCount": 0,
+            "FeaturedReviewCount": 0,
+            "TagDistributionOrder": [],
+            "OverallRatingRange": 5,
+            "TagDistribution": {},
+            "IntelligentTrustMarkDisplayEligible": true
+          },
+          "TotalReviewCount": 10,
+          "FilteredReviewStatistics": {
+            "ContextDataDistributionOrder": [
+              "Age",
+              "Gender",
+              "ReadReviews",
+              "WhereDidYouPurchase"
+            ],
+            "ContextDataDistribution": {
+              "Age": {
+                "Id": "Age",
+                "Values": [
+                  {
+                    "Count": 5,
+                    "Value": "25to34"
+                  },
+                  {
+                    "Count": 4,
+                    "Value": "35to44"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "65orOver"
+                  }
+                ]
+              },
+              "Gender": {
+                "Id": "Gender",
+                "Values": [
+                  {
+                    "Count": 10,
+                    "Value": "Female"
+                  }
+                ]
+              },
+              "ReadReviews": {
+                "Id": "ReadReviews",
+                "Values": [
+                  {
+                    "Count": 4,
+                    "Value": "Yes"
+                  },
+                  {
+                    "Count": 4,
+                    "Value": "No"
+                  }
+                ]
+              },
+              "WhereDidYouPurchase": {
+                "Id": "WhereDidYouPurchase",
+                "Values": [
+                  {
+                    "Count": 8,
+                    "Value": "online"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "instore"
+                  }
+                ]
+              }
+            },
+            "SecondaryRatingsAveragesOrder": [
+              "Quality",
+              "Value",
+              "Appearance1",
+              "Fit_22"
+            ],
+            "SecondaryRatingsAverages": {
+              "Quality": {
+                "Id": "Quality",
+                "AverageRating": 4.8,
+                "ValueRange": 5,
+                "MinLabel": null,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL"
+              },
+              "Fit_22": {
+                "Id": "Fit_22",
+                "AverageRating": 3.1,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MinLabel": null,
+                "MaxLabel": null
+              },
+              "Value": {
+                "Id": "Value",
+                "AverageRating": 4.6,
+                "ValueRange": 5,
+                "MinLabel": null,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL"
+              },
+              "Appearance1": {
+                "Id": "Appearance1",
+                "AverageRating": 4.8,
+                "ValueRange": 5,
+                "MinLabel": null,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL"
+              }
+            },
+            "NotHelpfulVoteCount": 0,
+            "RatingsOnlyReviewCount": 1,
+            "FirstSubmissionTime": "2019-02-02T00:17:18.000+00:00",
+            "LastSubmissionTime": "2020-01-28T00:19:11.000+00:00",
+            "AverageOverallRating": 4.8,
+            "RecommendedCount": 9,
+            "HelpfulVoteCount": 0,
+            "RatingDistribution": [
+              {
+                "RatingValue": 5,
+                "Count": 8
+              },
+              {
+                "RatingValue": 4,
+                "Count": 2
+              }
+            ],
+            "TotalReviewCount": 10,
+            "NotRecommendedCount": 0,
+            "FeaturedReviewCount": 0,
+            "TagDistributionOrder": [],
+            "OverallRatingRange": 5,
+            "TagDistribution": {}
+          }
+        }
+      ],
+      "Includes": {},
+      "HasErrors": false,
+      "Errors": [],
+      "reviews": {
+        "reviews": [
+          {
+            "text": "Really great fit and an awesome staple to add to the wardrobe to where under sheer garments or just causal look with denim shorts.",
+            "username": "Coos",
+            "userID": "1066639051",
+            "rate": 5,
+            "date": "2020-01-28T00:19:11.000+00:00"
+          },
+          {
+            "text": "Purchased this recently in another colour and was really happy with the cut and the way the fabric sits on my (normal curvy shaped) body. There was no white in store so I purchased online hoping that it wouldn\u2019t be see-through, and it was excellent. \r\n\r\nIf only I hadn\u2019t spilled thai dipping sauce all over it... fingers crossed it comes out, otherwise I\u2019ll buy another one!",
+            "username": "Sydney Rachael",
+            "userID": "1065648579",
+            "rate": 5,
+            "date": "2020-01-03T23:19:59.000+00:00"
+          },
+          {
+            "text": "Super comfy and soft, best quality always buy these basic tanks",
+            "username": "Mandamoo84",
+            "userID": "1063456700",
+            "rate": 5,
+            "date": "2019-11-10T04:20:32.000+00:00"
+          },
+          {
+            "text": "I bought this singlet too to go with a Jeanswest skirt I bought. It is amazingly soft and so comfortable. I have found it is also an absolute wardrobe staple which is now getting paired with so many other things!",
+            "username": "DeeFairy",
+            "userID": "1063130587",
+            "rate": 5,
+            "date": "2019-10-31T11:04:57.000+00:00"
+          },
+          {
+            "text": "I have 6 of these in all different colours. I love them. They wear and wash so well. Great value for money and a must have for summer and also great for under cardigans and jackets.",
+            "username": "MrsM",
+            "userID": "1063123359",
+            "rate": 5,
+            "date": "2019-10-31T03:49:22.000+00:00"
+          },
+          {
+            "text": "This single is a great fit - not too tight and a good length. It would be great if the material was thicker so you cant see through the fabric, you need to wear something under it.",
+            "username": "Pooky",
+            "userID": "1060924306",
+            "rate": 4,
+            "date": "2019-09-23T08:26:25.000+00:00"
+          },
+          {
+            "text": "I bought this single in blank and white and love the length and style of it.",
+            "username": "Ruby H",
+            "userID": "1053549457",
+            "rate": 5,
+            "date": "2019-04-03T02:11:12.000+00:00"
+          },
+          {
+            "text": "Awesome singlet, super soft material. Feels nice on the skin!",
+            "username": "Naomk",
+            "userID": "1053335748",
+            "rate": 4,
+            "date": "2019-03-25T03:42:02.000+00:00"
+          }
+        ]
+      }
+    },
+    {
+      "Limit": 10,
+      "Offset": 0,
+      "TotalResults": 1,
+      "Locale": "en_AU",
+      "Results": [
+        {
+          "FamilyIds": [
+            "WUC-06886-02"
+          ],
+          "Name": "Kendall Cotton Short Sleeve Tee-White",
+          "EANs": [
+            "9346324600122"
+          ],
+          "Description": "An essential for off-duty styling, the Kendall Short Sleeve Tee is perfect for layering in the cooler weather. This garment has a curved hemline and relaxed fit, pair with jeans and a textured scarf for everyday styling.- Soft cotton fabrication- Scooped\u00a0neckline\nMade from 95% Australian Cotton / 5% Elastane.",
+          "ModelNumbers": [
+            "WUC-06886-02"
+          ],
+          "AttributesOrder": [
+            "BV_FE_EXPAND",
+            "BV_FE_FAMILY"
+          ],
+          "Attributes": {
+            "BV_FE_EXPAND": {
+              "Id": "BV_FE_EXPAND",
+              "Values": [
+                {
+                  "Value": "BV_FE_FAMILY:WUC-06886-02",
+                  "Locale": null
+                }
+              ]
+            },
+            "BV_FE_FAMILY": {
+              "Id": "BV_FE_FAMILY",
+              "Values": [
+                {
+                  "Value": "WUC-06886-02",
+                  "Locale": null
+                }
+              ]
+            }
+          },
+          "ImageUrl": "https://www.jeanswest.com.au/alternate/images/media/product/WUC/06886/02/s/01.jpg",
+          "Id": "WUC-06886-02",
+          "CategoryId": "BV_MISCELLANEOUS_CATEGORY",
+          "BrandExternalId": "1",
+          "Brand": {
+            "Id": "1",
+            "Name": "Jeanswest"
+          },
+          "Active": false,
+          "Disabled": false,
+          "ReviewIds": [],
+          "ManufacturerPartNumbers": [],
+          "UPCs": [],
+          "StoryIds": [],
+          "ISBNs": [],
+          "QuestionIds": [],
+          "ProductPageUrl": null,
+          "ReviewStatistics": {
+            "FeaturedReviewCount": 0,
+            "FirstSubmissionTime": "2018-10-29T21:21:16.000+00:00",
+            "LastSubmissionTime": "2019-09-06T03:40:37.000+00:00",
+            "SecondaryRatingsAveragesOrder": [
+              "Quality",
+              "Value",
+              "Appearance1",
+              "Fit_22"
+            ],
+            "SecondaryRatingsAverages": {
+              "Quality": {
+                "Id": "Quality",
+                "AverageRating": 5.0,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "Appearance1": {
+                "Id": "Appearance1",
+                "AverageRating": 4.933333333333334,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "Fit_22": {
+                "Id": "Fit_22",
+                "AverageRating": 2.933333333333333,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              },
+              "Value": {
+                "Id": "Value",
+                "AverageRating": 4.933333333333334,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "MinLabel": null,
+                "ValueRange": 5
+              }
+            },
+            "NotHelpfulVoteCount": 0,
+            "ContextDataDistributionOrder": [
+              "Age",
+              "Gender",
+              "ReadReviews",
+              "WhereDidYouPurchase"
+            ],
+            "ContextDataDistribution": {
+              "Age": {
+                "Id": "Age",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "18to24"
+                  },
+                  {
+                    "Count": 6,
+                    "Value": "25to34"
+                  },
+                  {
+                    "Count": 5,
+                    "Value": "35to44"
+                  },
+                  {
+                    "Count": 2,
+                    "Value": "45to54"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "55to64"
+                  }
+                ]
+              },
+              "Gender": {
+                "Id": "Gender",
+                "Values": [
+                  {
+                    "Count": 14,
+                    "Value": "Female"
+                  }
+                ]
+              },
+              "ReadReviews": {
+                "Id": "ReadReviews",
+                "Values": [
+                  {
+                    "Count": 7,
+                    "Value": "Yes"
+                  },
+                  {
+                    "Count": 7,
+                    "Value": "No"
+                  }
+                ]
+              },
+              "WhereDidYouPurchase": {
+                "Id": "WhereDidYouPurchase",
+                "Values": [
+                  {
+                    "Count": 15,
+                    "Value": "online"
+                  }
+                ]
+              }
+            },
+            "AverageOverallRating": 4.8,
+            "RecommendedCount": 14,
+            "NotRecommendedCount": 1,
+            "HelpfulVoteCount": 0,
+            "RatingsOnlyReviewCount": 0,
+            "TotalReviewCount": 15,
+            "RatingDistribution": [
+              {
+                "RatingValue": 5,
+                "Count": 13
+              },
+              {
+                "RatingValue": 3,
+                "Count": 1
+              },
+              {
+                "RatingValue": 4,
+                "Count": 1
+              }
+            ],
+            "OverallRatingRange": 5,
+            "TagDistributionOrder": [],
+            "TagDistribution": {},
+            "IntelligentTrustMarkDisplayEligible": true
+          },
+          "TotalReviewCount": 15,
+          "FilteredReviewStatistics": {
+            "FeaturedReviewCount": 0,
+            "FirstSubmissionTime": "2018-10-29T21:21:16.000+00:00",
+            "LastSubmissionTime": "2019-09-06T03:40:37.000+00:00",
+            "SecondaryRatingsAveragesOrder": [
+              "Quality",
+              "Value",
+              "Appearance1",
+              "Fit_22"
+            ],
+            "SecondaryRatingsAverages": {
+              "Quality": {
+                "Id": "Quality",
+                "AverageRating": 5.0,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "Appearance1": {
+                "Id": "Appearance1",
+                "AverageRating": 4.933333333333334,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "Fit_22": {
+                "Id": "Fit_22",
+                "AverageRating": 2.933333333333333,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              },
+              "Value": {
+                "Id": "Value",
+                "AverageRating": 4.933333333333334,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "MinLabel": null,
+                "ValueRange": 5
+              }
+            },
+            "NotHelpfulVoteCount": 0,
+            "ContextDataDistributionOrder": [
+              "Age",
+              "Gender",
+              "ReadReviews",
+              "WhereDidYouPurchase"
+            ],
+            "ContextDataDistribution": {
+              "Age": {
+                "Id": "Age",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "18to24"
+                  },
+                  {
+                    "Count": 6,
+                    "Value": "25to34"
+                  },
+                  {
+                    "Count": 5,
+                    "Value": "35to44"
+                  },
+                  {
+                    "Count": 2,
+                    "Value": "45to54"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "55to64"
+                  }
+                ]
+              },
+              "Gender": {
+                "Id": "Gender",
+                "Values": [
+                  {
+                    "Count": 14,
+                    "Value": "Female"
+                  }
+                ]
+              },
+              "ReadReviews": {
+                "Id": "ReadReviews",
+                "Values": [
+                  {
+                    "Count": 7,
+                    "Value": "Yes"
+                  },
+                  {
+                    "Count": 7,
+                    "Value": "No"
+                  }
+                ]
+              },
+              "WhereDidYouPurchase": {
+                "Id": "WhereDidYouPurchase",
+                "Values": [
+                  {
+                    "Count": 15,
+                    "Value": "online"
+                  }
+                ]
+              }
+            },
+            "AverageOverallRating": 4.8,
+            "RecommendedCount": 14,
+            "NotRecommendedCount": 1,
+            "HelpfulVoteCount": 0,
+            "RatingsOnlyReviewCount": 0,
+            "TotalReviewCount": 15,
+            "RatingDistribution": [
+              {
+                "RatingValue": 5,
+                "Count": 13
+              },
+              {
+                "RatingValue": 3,
+                "Count": 1
+              },
+              {
+                "RatingValue": 4,
+                "Count": 1
+              }
+            ],
+            "OverallRatingRange": 5,
+            "TagDistributionOrder": [],
+            "TagDistribution": {}
+          }
+        }
+      ],
+      "Includes": {},
+      "HasErrors": false,
+      "Errors": [],
+      "reviews": {
+        "reviews": [
+          {
+            "text": "True to size, comfortable to wear and keeps it's shape.",
+            "username": "Cathyo",
+            "userID": "1060461927",
+            "rate": 5,
+            "date": "2019-09-06T03:40:37.000+00:00"
+          },
+          {
+            "text": "I love a good fitted T to wear under a blazer for work. This style feels so comfortable and soft to wear all day that I will purchase a few to keep in the work wardrobe rotation. I don\u2019t like a clingy top at work, my personal preference and for me the style runs true to size. Ease of washing and ironing is important to me and I found this material easy to care for and has kept a nice bright white.",
+            "username": "Stace1982",
+            "userID": "1056672002",
+            "rate": 4,
+            "date": "2019-07-02T12:33:38.000+00:00"
+          },
+          {
+            "text": "Wanted a non-see through t-shirt that doesn't loose its shape at the bottom. This tee delivered. Easily paired it with black jeans and a denim jacket for a casual look. Will be taking it with me on my upcoming holiday.",
+            "username": "85_nita",
+            "userID": "1054099362",
+            "rate": 5,
+            "date": "2019-04-09T06:45:10.000+00:00"
+          },
+          {
+            "text": "A perfect staple piece for mid season, fabulous  for layering and transitioning into the cooler months.",
+            "username": "Sally T",
+            "userID": "1053412391",
+            "rate": 5,
+            "date": "2019-03-28T04:08:52.000+00:00"
+          },
+          {
+            "text": "I bought this too for casual day wear. I have worn it tucked in and out and looks fantastic both ways",
+            "username": "Bagz87",
+            "userID": "1053279309",
+            "rate": 5,
+            "date": "2019-03-22T08:40:17.000+00:00"
+          },
+          {
+            "text": "The first time a shirt hasn't been a good fit across the shoulders.",
+            "username": "jessrlb",
+            "userID": "1051526530",
+            "rate": 3,
+            "date": "2019-01-14T03:45:09.000+00:00"
+          },
+          {
+            "text": "Basic white t-shirt. Nothing more,nothing less but better quality than most department stores and soft material.",
+            "username": "Mato",
+            "userID": "1051125479",
+            "rate": 5,
+            "date": "2018-12-30T01:15:44.000+00:00"
+          },
+          {
+            "text": "I bought this basic white t shirt which you can dress down or place a jacket on top for a more formal look. The fabric wears well and stays in place",
+            "username": "aj aunty josie",
+            "userID": "1051067659",
+            "rate": 5,
+            "date": "2018-12-28T02:55:15.000+00:00"
+          }
+        ]
+      }
+    },
+    {
+      "Limit": 10,
+      "Offset": 0,
+      "TotalResults": 1,
+      "Locale": "en_AU",
+      "Results": [
+        {
+          "FamilyIds": [
+            "WUC-06886-01"
+          ],
+          "Name": "Kendall Cotton Short Sleeve Tee-Black",
+          "EANs": [
+            "9346324600023"
+          ],
+          "Description": "An essential for off-duty styling, the Kendall Short Sleeve Tee is perfect for layering in the cooler weather. This garment has a curved hemline and relaxed fit, pair with jeans and a textured scarf for everyday styling.- Soft cotton fabrication- Scooped\u00a0neckline\nMade from 95% Australian Cotton / 5% Elastane.",
+          "ModelNumbers": [
+            "WUC-06886-01"
+          ],
+          "AttributesOrder": [
+            "BV_FE_EXPAND",
+            "BV_FE_FAMILY"
+          ],
+          "Attributes": {
+            "BV_FE_EXPAND": {
+              "Id": "BV_FE_EXPAND",
+              "Values": [
+                {
+                  "Value": "BV_FE_FAMILY:WUC-06886-01",
+                  "Locale": null
+                }
+              ]
+            },
+            "BV_FE_FAMILY": {
+              "Id": "BV_FE_FAMILY",
+              "Values": [
+                {
+                  "Value": "WUC-06886-01",
+                  "Locale": null
+                }
+              ]
+            }
+          },
+          "ImageUrl": "https://www.jeanswest.com.au/alternate/images/media/product/WUC/06886/01/s/01.jpg",
+          "Id": "WUC-06886-01",
+          "CategoryId": "BV_MISCELLANEOUS_CATEGORY",
+          "BrandExternalId": "1",
+          "Brand": {
+            "Id": "1",
+            "Name": "Jeanswest"
+          },
+          "Active": false,
+          "Disabled": false,
+          "ReviewIds": [],
+          "ManufacturerPartNumbers": [],
+          "ProductPageUrl": null,
+          "StoryIds": [],
+          "QuestionIds": [],
+          "ISBNs": [],
+          "UPCs": [],
+          "ReviewStatistics": {
+            "NotHelpfulVoteCount": 0,
+            "RecommendedCount": 11,
+            "ContextDataDistributionOrder": [
+              "Age",
+              "Gender",
+              "ReadReviews",
+              "WhereDidYouPurchase"
+            ],
+            "ContextDataDistribution": {
+              "Age": {
+                "Id": "Age",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "25to34"
+                  },
+                  {
+                    "Count": 8,
+                    "Value": "35to44"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "45to54"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "55to64"
+                  }
+                ]
+              },
+              "Gender": {
+                "Id": "Gender",
+                "Values": [
+                  {
+                    "Count": 11,
+                    "Value": "Female"
+                  }
+                ]
+              },
+              "ReadReviews": {
+                "Id": "ReadReviews",
+                "Values": [
+                  {
+                    "Count": 4,
+                    "Value": "Yes"
+                  },
+                  {
+                    "Count": 7,
+                    "Value": "No"
+                  }
+                ]
+              },
+              "WhereDidYouPurchase": {
+                "Id": "WhereDidYouPurchase",
+                "Values": [
+                  {
+                    "Count": 10,
+                    "Value": "online"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "instore"
+                  }
+                ]
+              }
+            },
+            "SecondaryRatingsAveragesOrder": [
+              "Quality",
+              "Value",
+              "Appearance1",
+              "Fit_22"
+            ],
+            "SecondaryRatingsAverages": {
+              "Value": {
+                "Id": "Value",
+                "AverageRating": 4.7272727272727275,
+                "DisplayType": "NORMAL",
+                "MaxLabel": null,
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "Fit_22": {
+                "Id": "Fit_22",
+                "AverageRating": 2.909090909090909,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              },
+              "Appearance1": {
+                "Id": "Appearance1",
+                "AverageRating": 4.7272727272727275,
+                "DisplayType": "NORMAL",
+                "MaxLabel": null,
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "Quality": {
+                "Id": "Quality",
+                "AverageRating": 4.7272727272727275,
+                "DisplayType": "NORMAL",
+                "MaxLabel": null,
+                "MinLabel": null,
+                "ValueRange": 5
+              }
+            },
+            "NotRecommendedCount": 0,
+            "FeaturedReviewCount": 0,
+            "RatingDistribution": [
+              {
+                "RatingValue": 5,
+                "Count": 9
+              },
+              {
+                "RatingValue": 4,
+                "Count": 2
+              }
+            ],
+            "RatingsOnlyReviewCount": 0,
+            "HelpfulVoteCount": 0,
+            "AverageOverallRating": 4.818181818181818,
+            "TotalReviewCount": 11,
+            "FirstSubmissionTime": "2018-10-03T12:23:37.000+00:00",
+            "LastSubmissionTime": "2019-06-29T02:01:53.000+00:00",
+            "TagDistribution": {},
+            "OverallRatingRange": 5,
+            "TagDistributionOrder": [],
+            "IntelligentTrustMarkDisplayEligible": true
+          },
+          "TotalReviewCount": 11,
+          "FilteredReviewStatistics": {
+            "NotHelpfulVoteCount": 0,
+            "RecommendedCount": 11,
+            "ContextDataDistributionOrder": [
+              "Age",
+              "Gender",
+              "ReadReviews",
+              "WhereDidYouPurchase"
+            ],
+            "ContextDataDistribution": {
+              "Age": {
+                "Id": "Age",
+                "Values": [
+                  {
+                    "Count": 1,
+                    "Value": "25to34"
+                  },
+                  {
+                    "Count": 8,
+                    "Value": "35to44"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "45to54"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "55to64"
+                  }
+                ]
+              },
+              "Gender": {
+                "Id": "Gender",
+                "Values": [
+                  {
+                    "Count": 11,
+                    "Value": "Female"
+                  }
+                ]
+              },
+              "ReadReviews": {
+                "Id": "ReadReviews",
+                "Values": [
+                  {
+                    "Count": 4,
+                    "Value": "Yes"
+                  },
+                  {
+                    "Count": 7,
+                    "Value": "No"
+                  }
+                ]
+              },
+              "WhereDidYouPurchase": {
+                "Id": "WhereDidYouPurchase",
+                "Values": [
+                  {
+                    "Count": 10,
+                    "Value": "online"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "instore"
+                  }
+                ]
+              }
+            },
+            "SecondaryRatingsAveragesOrder": [
+              "Quality",
+              "Value",
+              "Appearance1",
+              "Fit_22"
+            ],
+            "SecondaryRatingsAverages": {
+              "Value": {
+                "Id": "Value",
+                "AverageRating": 4.7272727272727275,
+                "DisplayType": "NORMAL",
+                "MaxLabel": null,
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "Fit_22": {
+                "Id": "Fit_22",
+                "AverageRating": 2.909090909090909,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              },
+              "Appearance1": {
+                "Id": "Appearance1",
+                "AverageRating": 4.7272727272727275,
+                "DisplayType": "NORMAL",
+                "MaxLabel": null,
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "Quality": {
+                "Id": "Quality",
+                "AverageRating": 4.7272727272727275,
+                "DisplayType": "NORMAL",
+                "MaxLabel": null,
+                "MinLabel": null,
+                "ValueRange": 5
+              }
+            },
+            "NotRecommendedCount": 0,
+            "FeaturedReviewCount": 0,
+            "RatingDistribution": [
+              {
+                "RatingValue": 5,
+                "Count": 9
+              },
+              {
+                "RatingValue": 4,
+                "Count": 2
+              }
+            ],
+            "RatingsOnlyReviewCount": 0,
+            "HelpfulVoteCount": 0,
+            "AverageOverallRating": 4.818181818181818,
+            "TotalReviewCount": 11,
+            "FirstSubmissionTime": "2018-10-03T12:23:37.000+00:00",
+            "LastSubmissionTime": "2019-06-29T02:01:53.000+00:00",
+            "TagDistribution": {},
+            "OverallRatingRange": 5,
+            "TagDistributionOrder": []
+          }
+        }
+      ],
+      "Includes": {},
+      "HasErrors": false,
+      "Errors": [],
+      "reviews": {
+        "reviews": [
+          {
+            "text": "A bit big so I would recommend going down a size. Very comfortable and soft to wear.",
+            "username": "AA76",
+            "userID": "1056595949",
+            "rate": 4,
+            "date": "2019-06-29T02:01:53.000+00:00"
+          },
+          {
+            "text": "Bought this online. Great quality material and fit",
+            "username": "LeaZ",
+            "userID": "1053430517",
+            "rate": 4,
+            "date": "2019-03-28T20:48:13.000+00:00"
+          },
+          {
+            "text": "The shirts material is soft and has a bit of stretch to it. It\u2019s a good length and not too short for my torso which I find is a problem with some shirts.",
+            "username": "Qanon",
+            "userID": "1053316608",
+            "rate": 5,
+            "date": "2019-03-24T04:05:20.000+00:00"
+          },
+          {
+            "text": "I purchased the white shirt in-store as I had been looking for a while & this one wasn't see-through. It was so comfy that I then got the black one online. Nice length, really soft with a bit of stretch in it, yet its not clingy. Great staple for the wardrobe that can be dressed up or down",
+            "username": "Annie87",
+            "userID": "1053177042",
+            "rate": 5,
+            "date": "2019-03-17T23:55:42.000+00:00"
+          },
+          {
+            "text": "Stretchy , soft and comfortable , great staple basics",
+            "username": "Kel8224",
+            "userID": "1051469669",
+            "rate": 5,
+            "date": "2019-01-12T03:23:51.000+00:00"
+          },
+          {
+            "text": "I bought this two weeks ago to replace one that accidently made a whole in it, having said that it's obvious I'm very happy with my purchase.",
+            "username": "Anneh59",
+            "userID": "1050566964",
+            "rate": 5,
+            "date": "2018-12-08T22:48:15.000+00:00"
+          },
+          {
+            "text": "Bought this shirt due to the great reviews. Found it to be a great basic cotton Tee with good amount of stretch. Fabric has a nice feel & hangs nicely. Found these are more fitted shirts than some of the Lux style tops. Had to go up a size. Bought it in the black & white. The white is heavy enough not to be see through,",
+            "username": "WendyJ",
+            "userID": "1049961538",
+            "rate": 5,
+            "date": "2018-11-19T22:35:45.000+00:00"
+          },
+          {
+            "text": "Nice lycra feel tshirt. The black Washed well no fading at all.",
+            "username": "Beljef",
+            "userID": "1049484444",
+            "rate": 5,
+            "date": "2018-11-01T11:03:11.000+00:00"
+          }
+        ]
+      }
+    },
+    {
+      "Limit": 10,
+      "Offset": 0,
+      "TotalResults": 1,
+      "Locale": "en_AU",
+      "Results": [
+        {
+          "FamilyIds": [
+            "WUC-06641-02"
+          ],
+          "Name": "Heather Thermal Longsleeve Top-Charcoal Marle",
+          "EANs": [
+            "9346324566565"
+          ],
+          "Description": "We bring you a new option in our women's core range: the Heather Thermal Longsleeve Top... just wearing it automatically warms you! This garment uses dralon fibre to draw surface moisture from your skin and store body heat, keeping you continuously warm and comfortable. Offering a comfy long sleeve design combined with a super soft handfeel, this top is definitely a must-have! - Heat preservation - Quick drying - Anti-static - Provides softness and guarantees durability Made from 42% Viscose / 35% Acrylic / 17% Cotton / 6% Elastane",
+          "ModelNumbers": [
+            "WUC-06641-02"
+          ],
+          "AttributesOrder": [
+            "BV_FE_EXPAND",
+            "BV_FE_FAMILY"
+          ],
+          "Attributes": {
+            "BV_FE_EXPAND": {
+              "Id": "BV_FE_EXPAND",
+              "Values": [
+                {
+                  "Value": "BV_FE_FAMILY:WUC-06641-02",
+                  "Locale": null
+                }
+              ]
+            },
+            "BV_FE_FAMILY": {
+              "Id": "BV_FE_FAMILY",
+              "Values": [
+                {
+                  "Value": "WUC-06641-02",
+                  "Locale": null
+                }
+              ]
+            }
+          },
+          "ImageUrl": "https://www.jeanswest.com.au/alternate/images/media/product/WUC/06641/02/s/01.jpg",
+          "Id": "WUC-06641-02",
+          "CategoryId": "BV_MISCELLANEOUS_CATEGORY",
+          "BrandExternalId": "1",
+          "Brand": {
+            "Id": "1",
+            "Name": "Jeanswest"
+          },
+          "Active": false,
+          "Disabled": false,
+          "ISBNs": [],
+          "QuestionIds": [],
+          "UPCs": [],
+          "ManufacturerPartNumbers": [],
+          "ReviewIds": [],
+          "StoryIds": [],
+          "ProductPageUrl": null,
+          "ReviewStatistics": {
+            "RatingsOnlyReviewCount": 0,
+            "AverageOverallRating": 5.0,
+            "ContextDataDistributionOrder": [
+              "Age",
+              "Gender",
+              "ReadReviews",
+              "WhereDidYouPurchase"
+            ],
+            "ContextDataDistribution": {
+              "Age": {
+                "Id": "Age",
+                "Values": [
+                  {
+                    "Count": 2,
+                    "Value": "35to44"
+                  },
+                  {
+                    "Count": 2,
+                    "Value": "45to54"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "55to64"
+                  }
+                ]
+              },
+              "Gender": {
+                "Id": "Gender",
+                "Values": [
+                  {
+                    "Count": 5,
+                    "Value": "Female"
+                  }
+                ]
+              },
+              "ReadReviews": {
+                "Id": "ReadReviews",
+                "Values": [
+                  {
+                    "Count": 2,
+                    "Value": "Yes"
+                  },
+                  {
+                    "Count": 3,
+                    "Value": "No"
+                  }
+                ]
+              },
+              "WhereDidYouPurchase": {
+                "Id": "WhereDidYouPurchase",
+                "Values": [
+                  {
+                    "Count": 5,
+                    "Value": "online"
+                  }
+                ]
+              }
+            },
+            "FirstSubmissionTime": "2018-08-11T07:12:26.000+00:00",
+            "LastSubmissionTime": "2018-11-06T02:06:56.000+00:00",
+            "SecondaryRatingsAveragesOrder": [
+              "Quality",
+              "Value",
+              "Appearance1",
+              "Fit_22"
+            ],
+            "SecondaryRatingsAverages": {
+              "Quality": {
+                "Id": "Quality",
+                "AverageRating": 5.0,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "Appearance1": {
+                "Id": "Appearance1",
+                "AverageRating": 4.8,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "Fit_22": {
+                "Id": "Fit_22",
+                "AverageRating": 3.2,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              },
+              "Value": {
+                "Id": "Value",
+                "AverageRating": 4.8,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "MinLabel": null,
+                "ValueRange": 5
+              }
+            },
+            "FeaturedReviewCount": 0,
+            "NotHelpfulVoteCount": 0,
+            "RatingDistribution": [
+              {
+                "RatingValue": 5,
+                "Count": 5
+              }
+            ],
+            "NotRecommendedCount": 0,
+            "HelpfulVoteCount": 0,
+            "TotalReviewCount": 5,
+            "RecommendedCount": 5,
+            "TagDistribution": {},
+            "TagDistributionOrder": [],
+            "OverallRatingRange": 5,
+            "IntelligentTrustMarkDisplayEligible": true
+          },
+          "TotalReviewCount": 5,
+          "FilteredReviewStatistics": {
+            "RatingsOnlyReviewCount": 0,
+            "AverageOverallRating": 5.0,
+            "ContextDataDistributionOrder": [
+              "Age",
+              "Gender",
+              "ReadReviews",
+              "WhereDidYouPurchase"
+            ],
+            "ContextDataDistribution": {
+              "Age": {
+                "Id": "Age",
+                "Values": [
+                  {
+                    "Count": 2,
+                    "Value": "35to44"
+                  },
+                  {
+                    "Count": 2,
+                    "Value": "45to54"
+                  },
+                  {
+                    "Count": 1,
+                    "Value": "55to64"
+                  }
+                ]
+              },
+              "Gender": {
+                "Id": "Gender",
+                "Values": [
+                  {
+                    "Count": 5,
+                    "Value": "Female"
+                  }
+                ]
+              },
+              "ReadReviews": {
+                "Id": "ReadReviews",
+                "Values": [
+                  {
+                    "Count": 2,
+                    "Value": "Yes"
+                  },
+                  {
+                    "Count": 3,
+                    "Value": "No"
+                  }
+                ]
+              },
+              "WhereDidYouPurchase": {
+                "Id": "WhereDidYouPurchase",
+                "Values": [
+                  {
+                    "Count": 5,
+                    "Value": "online"
+                  }
+                ]
+              }
+            },
+            "FirstSubmissionTime": "2018-08-11T07:12:26.000+00:00",
+            "LastSubmissionTime": "2018-11-06T02:06:56.000+00:00",
+            "SecondaryRatingsAveragesOrder": [
+              "Quality",
+              "Value",
+              "Appearance1",
+              "Fit_22"
+            ],
+            "SecondaryRatingsAverages": {
+              "Quality": {
+                "Id": "Quality",
+                "AverageRating": 5.0,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "Appearance1": {
+                "Id": "Appearance1",
+                "AverageRating": 4.8,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "Fit_22": {
+                "Id": "Fit_22",
+                "AverageRating": 3.2,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              },
+              "Value": {
+                "Id": "Value",
+                "AverageRating": 4.8,
+                "MaxLabel": null,
+                "DisplayType": "NORMAL",
+                "MinLabel": null,
+                "ValueRange": 5
+              }
+            },
+            "FeaturedReviewCount": 0,
+            "NotHelpfulVoteCount": 0,
+            "RatingDistribution": [
+              {
+                "RatingValue": 5,
+                "Count": 5
+              }
+            ],
+            "NotRecommendedCount": 0,
+            "HelpfulVoteCount": 0,
+            "TotalReviewCount": 5,
+            "RecommendedCount": 5,
+            "TagDistribution": {},
+            "TagDistributionOrder": [],
+            "OverallRatingRange": 5
+          }
+        }
+      ],
+      "Includes": {},
+      "HasErrors": false,
+      "Errors": [],
+      "reviews": {
+        "reviews": [
+          {
+            "text": "This is a little large on me, but they had run out of my size.  Love it so much going to keep it for a loose cosy top in winter, too good a special to resist!",
+            "username": "Pearl1",
+            "userID": "1049589611",
+            "rate": 5,
+            "date": "2018-11-06T02:06:56.000+00:00"
+          },
+          {
+            "text": "I bought this a couple of weeks ago. Have enjoyed wearing it. It\u2019s a good layering for Spring weather.",
+            "username": "Shalini",
+            "userID": "1048906886",
+            "rate": 5,
+            "date": "2018-10-07T22:08:42.000+00:00"
+          },
+          {
+            "text": "I bought this top to wear under a vest.  I'm even happy to even wear on it's own, and great as an extra warm layer under winter dresses and jumpers.  Great material and washed well.  Very comfortable.  Would by more in other colours.",
+            "username": "Shaz04",
+            "userID": "1048436093",
+            "rate": 5,
+            "date": "2018-09-17T04:52:17.000+00:00"
+          },
+          {
+            "text": "I\u2019m so glad I made the purchase of these! I loved them under my Kathmandu jacket.",
+            "username": "NikiH",
+            "userID": "1047938441",
+            "rate": 5,
+            "date": "2018-08-28T12:04:30.000+00:00"
+          },
+          {
+            "text": "So comfortable. Great to stay warm in winter. I bought two and want more.",
+            "username": "Rachbull",
+            "userID": "1047604027",
+            "rate": 5,
+            "date": "2018-08-11T07:12:26.000+00:00"
+          }
+        ]
+      }
+    }
+  ]
+}
