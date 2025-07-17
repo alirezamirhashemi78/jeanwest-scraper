@@ -18,3 +18,15 @@ This project is a simple scraper to collect product details and reviews from the
 
 ```bash
 pip install -r requirements.txt
+```
+
+1. Run scraper:
+
+```bash
+python3 main.py
+```
+
+## Important
+
+**Make sure to run this project with Python 3.**  
+Using Python 2 or other versions may cause errors.
