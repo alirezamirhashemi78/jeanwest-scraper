@@ -17,12 +17,14 @@ This project is a simple scraper to collect product details and reviews from the
 1. Install dependencies:
 
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 1. Run scraper:
 
 ```bash
 python3 main.py
+```
 
 ## Important
 
